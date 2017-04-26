@@ -6,6 +6,7 @@
 ## 2014
 ### Semantic Image Segmentation with Deep Convolutional Nets and Fully Connected CRFs [[paper]](http://arxiv.org/abs/1412.7062)
 ### Material Recognition in the Wild with the Materials in Context Database [[paper]](https://arxiv.org/abs/1412.0623)
+### Predicting Depth Surface Normals and Semantic Labels with a Common Multi-scale Convolutional Architecture [[paper]](http://arxiv.org/abs/1411.4734)
 
 ## 2015
 ### Fully Convolutional Networks for Semantic Segmentation [[paper]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Long_Fully_Convolutional_Networks_2015_CVPR_paper.pdf)
@@ -20,6 +21,7 @@
 ### Bayesian SegNet Model Uncertainty in Deep Convolutional Encoder-Decoder Architectures for Scene Understanding [[paper]](https://arxiv.org/abs/1511.02680)
 ### Conditional Random Fields as Recurrent Neural Networks [[paper]](http://www.robots.ox.ac.uk/~szheng/papers/CRFasRNN.pdf)
 ### Multi-scale Context Aggregation by Dilated Convolutions [[paper]](http://arxiv.org/abs/1511.07122)
+### ParseNet Looking Wider to See Better [[paper]](https://arxiv.org/abs/1506.04579)
 
 ## 2016
 ### DeepLab Semantic Image Segmentation with Deep Convolutional Nets Atrous Convolution and Fully Connected CRFs [[paepr]](http://arxiv.org/abs/1606.00915)
