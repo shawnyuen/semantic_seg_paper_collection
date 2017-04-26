@@ -11,7 +11,9 @@
 ### Weakly and Semi-supervised Learning of a DCNN for Semantic Image Segmentation [[paper]]()
 ### Fully Connected Deep Structured Networks [[paper]](https://arxiv.org/abs/1503.02351)
 ### Conditional Random Fields as Recurrent Neural Networks [[paper]](http://www.robots.ox.ac.uk/~szheng/papers/CRFasRNN.pdf)
-### SegNet A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation [[paper]]
+### SegNet A Deep Convolutional Encoder-Decoder Architecture for Robust Semantic Pixel-wise Labelling [[paper]](https://arxiv.org/abs/1505.07293)
+### SegNet A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation [[paper]](https://arxiv.org/abs/1511.00561)
+### Bayesian SegNet Model Uncertainty in Deep Convolutional Encoder-Decoder Architectures for Scene Understanding [[paper]](https://arxiv.org/abs/1511.02680)
 
 ## 2017
 ### Large Kernel Matters -- Improve Semantic Segmentation by Global Convolutional Networ [[paper]](https://arxiv.org/abs/1703.02719)
