@@ -32,3 +32,4 @@
 ### A Review on Deep Learning Techniques Applied to Semantic Segmentation [[paper]](https://arxiv.org/abs/1704.06857)
 ### Superpixel-based Semantic Segmentation Trained by Statistical Process Control [[paper]](https://arxiv.org/abs/1706.10071)
 ### Universal Adversarial Perturbations Against Semantic Image Segmentation [[paper]](https://arxiv.org/abs/1704.05712)
+### Rethinking Atrous Convolution for Semantic Image Segmentation [[paper]](https://arxiv.org/abs/1706.05587)
