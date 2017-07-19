@@ -26,6 +26,7 @@
 ## 2016
 ### DeepLab Semantic Image Segmentation with Deep Convolutional Nets Atrous Convolution and Fully Connected CRFs [[paepr]](http://arxiv.org/abs/1606.00915)
 ### ENet A Deep Neural Network Architecture for Real-Time Semantic Segmentation [[paper]](https://arxiv.org/abs/1606.02147)
+### Full-Resolution Residual Networks for Semantic Segmentation in Street Scenes [[paper]](https://arxiv.org/abs/1611.08323) [[theano code]](https://github.com/TobyPDE/FRRN)
 
 ## 2017
 ### Large Kernel Matters -- Improve Semantic Segmentation by Global Convolutional Networ [[paper]](https://arxiv.org/abs/1703.02719)
