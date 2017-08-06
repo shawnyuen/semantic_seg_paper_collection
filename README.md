@@ -37,3 +37,4 @@
 ### (DeepLab V3) Rethinking Atrous Convolution for Semantic Image Segmentation [[paper]](https://arxiv.org/abs/1706.05587)
 ### Residual Conv-Deconv Grid Network for Semantic Segmentation [[paper]](https://arxiv.org/abs/1707.07958)
 ### Learning Multi-level Region Consistency with Dense Multi-label Networks for Semantic Segmentation
+### Exploring Context with Deep Structured models for Semantic Segmentation [[paper]](http://ieeexplore.ieee.org/document/7934393/)
