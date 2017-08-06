@@ -36,3 +36,4 @@
 ### Universal Adversarial Perturbations Against Semantic Image Segmentation [[paper]](https://arxiv.org/abs/1704.05712)
 ### (DeepLab V3) Rethinking Atrous Convolution for Semantic Image Segmentation [[paper]](https://arxiv.org/abs/1706.05587)
 ### Residual Conv-Deconv Grid Network for Semantic Segmentation [[paper]](https://arxiv.org/abs/1707.07958)
+### Learning Multi-level Region Consistency with Dense Multi-label Networks for Semantic Segmentation
