@@ -28,6 +28,7 @@
 ### ENet A Deep Neural Network Architecture for Real-Time Semantic Segmentation [[paper]](https://arxiv.org/abs/1606.02147)
 ### Full-Resolution Residual Networks for Semantic Segmentation in Street Scenes [[paper]](https://arxiv.org/abs/1611.08323) [[theano code]](https://github.com/TobyPDE/FRRN)
 ### Bridging Category-level and Instance-level Semantic Image Segmentation [[paper]](https://arxiv.org/abs/1605.06885)
+### Semantic Image Segmentation with Task-specific Edge Detection Using CNNs and a Discriminatively Trained Domain Transform [[paper]](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Chen_Semantic_Image_Segmentation_CVPR_2016_paper.pdf)
 
 ## 2017
 ### Large Kernel Matters -- Improve Semantic Segmentation by Global Convolutional Networ [[paper]](https://arxiv.org/abs/1703.02719)
