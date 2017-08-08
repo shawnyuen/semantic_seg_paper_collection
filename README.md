@@ -38,3 +38,4 @@
 ### Residual Conv-Deconv Grid Network for Semantic Segmentation [[paper]](https://arxiv.org/abs/1707.07958)
 ### Learning Multi-level Region Consistency with Dense Multi-label Networks for Semantic Segmentation
 ### Exploring Context with Deep Structured models for Semantic Segmentation [[paper]](http://ieeexplore.ieee.org/document/7934393/)
+### Face Parsing via Recurrent Propagation [[paper]](https://arxiv.org/abs/1708.01936)
