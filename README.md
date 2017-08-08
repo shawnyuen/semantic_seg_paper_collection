@@ -10,7 +10,7 @@
 
 ## 2015
 ### Fully Convolutional Networks for Semantic Segmentation [[paper]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Long_Fully_Convolutional_Networks_2015_CVPR_paper.pdf)
-### Semantic Image Segmentation with Deep Convolutional Nets and Fully Connected CRFs [[paper]](http://arxiv.org/abs/1412.7062)
+### (DeepLab V1) Semantic Image Segmentation with Deep Convolutional Nets and Fully Connected CRFs [[paper]](http://arxiv.org/abs/1412.7062)
 ### Semantic Image Segmentation via Deep Parsing Network [[paper]](http://www.cv-foundation.org/openaccess/content_iccv_2015/html/Liu_Semantic_Image_Segmentation_ICCV_2015_paper.html)
 ### Feedforward Semantic Segmentation with Zoom-out Features [[paper]](https://arxiv.org/abs/1412.0774)
 ### Weakly and Semi-supervised Learning of a DCNN for Semantic Image Segmentation [[paper]]()
@@ -28,7 +28,7 @@
 ### ENet A Deep Neural Network Architecture for Real-Time Semantic Segmentation [[paper]](https://arxiv.org/abs/1606.02147)
 ### Full-Resolution Residual Networks for Semantic Segmentation in Street Scenes [[paper]](https://arxiv.org/abs/1611.08323) [[theano code]](https://github.com/TobyPDE/FRRN)
 ### Bridging Category-level and Instance-level Semantic Image Segmentation [[paper]](https://arxiv.org/abs/1605.06885)
-### Semantic Image Segmentation with Task-specific Edge Detection Using CNNs and a Discriminatively Trained Domain Transform [[paper]](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Chen_Semantic_Image_Segmentation_CVPR_2016_paper.pdf)
+### (DeepLab V2) Semantic Image Segmentation with Task-specific Edge Detection Using CNNs and a Discriminatively Trained Domain Transform [[paper]](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Chen_Semantic_Image_Segmentation_CVPR_2016_paper.pdf)
 
 ## 2017
 ### Large Kernel Matters -- Improve Semantic Segmentation by Global Convolutional Networ [[paper]](https://arxiv.org/abs/1703.02719)
