@@ -39,3 +39,4 @@
 ### Learning Multi-level Region Consistency with Dense Multi-label Networks for Semantic Segmentation
 ### Exploring Context with Deep Structured models for Semantic Segmentation [[paper]](http://ieeexplore.ieee.org/document/7934393/)
 ### Face Parsing via Recurrent Propagation [[paper]](https://arxiv.org/abs/1708.01936)
+### The Devil is in the Decoder [[paper]](https://arxiv.org/abs/1707.05847)
