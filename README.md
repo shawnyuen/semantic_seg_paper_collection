@@ -42,3 +42,4 @@
 ### Face Parsing via Recurrent Propagation [[paper]](https://arxiv.org/abs/1708.01936)
 ### The Devil is in the Decoder [[paper]](https://arxiv.org/abs/1707.05847)
 ### Learning Affinity via Spatial Propagation Networks [[paper]](https://arxiv.org/abs/1710.01020)
+### Convolutional Random Walk Networks for Semantic Image Segmentation [[paper]](http://openaccess.thecvf.com/content_cvpr_2017/html/Bertasius_Convolutional_Random_Walk_CVPR_2017_paper.html)
