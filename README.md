@@ -43,3 +43,6 @@
 ### The Devil is in the Decoder [[paper]](https://arxiv.org/abs/1707.05847)
 ### Learning Affinity via Spatial Propagation Networks [[paper]](https://arxiv.org/abs/1710.01020)
 ### Convolutional Random Walk Networks for Semantic Image Segmentation [[paper]](http://openaccess.thecvf.com/content_cvpr_2017/html/Bertasius_Convolutional_Random_Walk_CVPR_2017_paper.html)
+### Mix-and-Match Tuning for Self-Supervised Semantic Segmentation [[paper]](https://arxiv.org/abs/1712.00661)
+### Video Object Segmentation with Re-identification [[paper]](https://arxiv.org/abs/1708.00197)
+### Deep Learning Markov Random Field for Semantic Segmentation [[paper]](http://ieeexplore.ieee.org/abstract/document/8006236/)
