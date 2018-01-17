@@ -46,3 +46,4 @@
 ### Mix-and-Match Tuning for Self-Supervised Semantic Segmentation [[paper]](https://arxiv.org/abs/1712.00661)
 ### Video Object Segmentation with Re-identification [[paper]](https://arxiv.org/abs/1708.00197)
 ### Deep Learning Markov Random Field for Semantic Segmentation [[paper]](http://ieeexplore.ieee.org/abstract/document/8006236/)
+### Learning to Segment Instances in Videos with Spatial Propagation Network [[paper]](https://arxiv.org/abs/1709.04609) [[code]](https://github.com/JingchunCheng/Seg-)
