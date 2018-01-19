@@ -47,3 +47,4 @@
 ### Video Object Segmentation with Re-identification [[paper]](https://arxiv.org/abs/1708.00197)
 ### Deep Learning Markov Random Field for Semantic Segmentation [[paper]](http://ieeexplore.ieee.org/abstract/document/8006236/)
 ### Learning to Segment Instances in Videos with Spatial Propagation Network [[paper]](https://arxiv.org/abs/1709.04609) [[code]](https://github.com/JingchunCheng/Seg-)
+### TernausNet U-Net with VGG11 Encoder Pre-Trained on ImageNet for Image Segmentation [[paper]](https://arxiv.org/abs/1801.05746)
