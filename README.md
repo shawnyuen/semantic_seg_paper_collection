@@ -49,3 +49,4 @@
 ### Learning to Segment Instances in Videos with Spatial Propagation Network [[paper]](https://arxiv.org/abs/1709.04609) [[code]](https://github.com/JingchunCheng/Seg-)
 ### TernausNet U-Net with VGG11 Encoder Pre-Trained on ImageNet for Image Segmentation [[paper]](https://arxiv.org/abs/1801.05746)
 ### Understanding Convolution for Semantic Segmentation [[paper]](https://arxiv.org/abs/1702.08502)
+### Universal Adversarial Perturbations Against Semantic Image Segmentation [[paper]](https://arxiv.org/abs/1704.05712)
