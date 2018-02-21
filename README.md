@@ -51,6 +51,7 @@
 ### Understanding Convolution for Semantic Segmentation [[paper]](https://arxiv.org/abs/1702.08502)
 ### Universal Adversarial Perturbations Against Semantic Image Segmentation [[paper]](https://arxiv.org/abs/1704.05712)
 ### Stacked Deconvolutional Network for Semantic Segmentation [[paper]](https://arxiv.org/abs/1708.04943)
+### End-to-end Semantic Face Segmentation with Conditional Random Fields as Convolutional Recurrent and Adversarial Networks [[paper]](https://arxiv.org/abs/1703.03305)
 
 ## 2018
 ### (DeepLab V3+)Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation  [[paper]](https://arxiv.org/abs/1802.02611)
