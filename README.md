@@ -28,7 +28,7 @@
 ### Full-Resolution Residual Networks for Semantic Segmentation in Street Scenes [[paper]](https://arxiv.org/abs/1611.08323) [[theano code]](https://github.com/TobyPDE/FRRN)
 ### Bridging Category-level and Instance-level Semantic Image Segmentation [[paper]](https://arxiv.org/abs/1605.06885)
 ### (DeepLab V2) Semantic Image Segmentation with Task-specific Edge Detection Using CNNs and a Discriminatively Trained Domain Transform [[paper]](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Chen_Semantic_Image_Segmentation_CVPR_2016_paper.pdf)
-### The One Hundred Layers Tiramisu Fully Convolutional DenseNets for Semantic Segmentation [[paper]](https://arxiv.org/abs/1611.09326)
+### The One Hundred Layers Tiramisu Fully Convolutional DenseNets for Semantic Segmentation [[paper]](https://arxiv.org/abs/1611.09326) [[Keras code]](https://github.com/0bserver07/One-Hundred-Layers-Tiramisu) [[Theano code]](https://github.com/SimJeg/FC-DenseNet)
 ### Efficient Piecewise Training of Deep Structured Models for Semantic Segmentation [[paper]](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Lin_Efficient_Piecewise_Training_CVPR_2016_paper.pdf)
 
 ## 2017
