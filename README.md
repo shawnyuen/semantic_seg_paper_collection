@@ -58,3 +58,4 @@
 ## 2018
 ### (DeepLab V3+)Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation  [[paper]](https://arxiv.org/abs/1802.02611)
 ### Path Aggregation Network for Instance Segmentation [[paper]](https://arxiv.org/abs/1803.01534)
+### ExFuse: Enhancing Feature Fusion for Semantic Segmentation [[paper]](https://arxiv.org/abs/1804.03821)
