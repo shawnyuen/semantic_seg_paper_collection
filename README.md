@@ -55,6 +55,7 @@
 ### Stacked Deconvolutional Network for Semantic Segmentation [[paper]](https://arxiv.org/abs/1708.04943)
 ### End-to-end Semantic Face Segmentation with Conditional Random Fields as Convolutional Recurrent and Adversarial Networks [[paper]](https://arxiv.org/abs/1703.03305)
 ### Densely Connected Deconvolutional Network for Semantic Segmentation [[paper]](https://ieeexplore.ieee.org/abstract/document/8296850/)
+### The One Hundred Layers Tiramisu Fully Convolutional DenseNets for Semantic Segmentation [[paper]](http://openaccess.thecvf.com/content_cvpr_2017_workshops/w13/papers/Jegou_The_One_Hundred_CVPR_2017_paper.pdf) [[code]](https://github.com/SimJeg/FC-DenseNet)
 
 ## 2018
 ### (DeepLab V3+)Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation  [[paper]](https://arxiv.org/abs/1802.02611)
