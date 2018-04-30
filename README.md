@@ -1,13 +1,13 @@
 # SemanticSegPaperCollection
-
+## Surver or Review
+### A Review on Deep Learning Techniques Applied to Semantic Segmentation 2017 [[paper]](https://arxiv.org/abs/1704.06857)
+### Survey of Recent Progress in Semantic Image Segmentation with CNNs 2018 [[paper]](https://link.springer.com/article/10.1007/s11432-017-9189-6)
 ## 2013
 ### Learning Hierarchical Features for Scene Labeling [[paper]](http://yann.lecun.com/exdb/publis/pdf/farabet-pami-13.pdf)
-
 ## 2014
 ### (DeepLab V1) Semantic Image Segmentation with Deep Convolutional Nets and Fully Connected CRFs [[iclr2015 paper]](http://arxiv.org/abs/1412.7062)
 ### Material Recognition in the Wild with the Materials in Context Database [[paper]](https://arxiv.org/abs/1412.0623)
 ### Predicting Depth Surface Normals and Semantic Labels with a Common Multi-scale Convolutional Architecture [[paper]](http://arxiv.org/abs/1411.4734)
-
 ## 2015
 ### Fully Convolutional Networks for Semantic Segmentation [[paper]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Long_Fully_Convolutional_Networks_2015_CVPR_paper.pdf)
 ### Semantic Image Segmentation via Deep Parsing Network [[paper]](http://www.cv-foundation.org/openaccess/content_iccv_2015/html/Liu_Semantic_Image_Segmentation_ICCV_2015_paper.html)
