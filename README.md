@@ -64,3 +64,4 @@
 ### Path Aggregation Network for Instance Segmentation [[paper]](https://arxiv.org/abs/1803.01534)
 ### ExFuse: Enhancing Feature Fusion for Semantic Segmentation [[paper]](https://arxiv.org/abs/1804.03821)
 ### Context Encoding for Semantic Segmentation [[paper]](https://arxiv.org/abs/1803.08904)
+### Progressive Refinement a Method of Coarse-to-fine Image Parsing Using Stacked Network [[paper]](https://arxiv.org/abs/1804.08256)
