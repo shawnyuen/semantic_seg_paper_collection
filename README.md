@@ -65,3 +65,6 @@
 ### ExFuse: Enhancing Feature Fusion for Semantic Segmentation [[paper]](https://arxiv.org/abs/1804.03821)
 ### Context Encoding for Semantic Segmentation [[paper]](https://arxiv.org/abs/1803.08904)
 ### Progressive Refinement a Method of Coarse-to-fine Image Parsing Using Stacked Network [[paper]](https://arxiv.org/abs/1804.08256)
+### ContextNet Exploring Context and Detail for Semantic Segmentation in Real-time 2018 [[paper]](https://arxiv.org/abs/1805.04554)
+### Revisiting Dilated Convolution A Simple Approach for Weakly- and Semi- Supervised Semantic Segmentation 2018 [[paepr]](https://arxiv.org/abs/1805.04574)
+#### Convolutional CRFs for Semantic Segmentation 2018 [[paper]](https://arxiv.org/abs/1805.04777)
