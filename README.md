@@ -32,6 +32,8 @@
 ### The One Hundred Layers Tiramisu Fully Convolutional DenseNets for Semantic Segmentation [[paper]](https://arxiv.org/abs/1611.09326) [[Keras code]](https://github.com/0bserver07/One-Hundred-Layers-Tiramisu) [[Theano code]](https://github.com/SimJeg/FC-DenseNet)
 ### Efficient Piecewise Training of Deep Structured Models for Semantic Segmentation [[paper]](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Lin_Efficient_Piecewise_Training_CVPR_2016_paper.pdf)
 ### Laplacian Pyramid Reconstruction and Refinement for Semantic Segmentation [[paper]](https://link.springer.com/chapter/10.1007/978-3-319-46487-9_32) [[matconvnet code]](https://github.com/golnazghiasi/LRR)
+### Fast, Exact and Multi-scale Inference for Semantic Image Segmentation with Deep Gaussian CRFs 2016 [[paper]](https://link.springer.com/chapter/10.1007/978-3-319-46478-7_25)
+### Gaussian Conditional Random Field Network for Semantic Segmentation [[paper]](https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Vemulapalli_Gaussian_Conditional_Random_CVPR_2016_paper.html)
 
 ## 2017
 ### Large Kernel Matters - Improve Semantic Segmentation by Global Convolutional Network [[paper]](https://arxiv.org/abs/1703.02719)
@@ -67,4 +69,4 @@
 ### Progressive Refinement a Method of Coarse-to-fine Image Parsing Using Stacked Network [[paper]](https://arxiv.org/abs/1804.08256)
 ### ContextNet Exploring Context and Detail for Semantic Segmentation in Real-time 2018 [[paper]](https://arxiv.org/abs/1805.04554)
 ### Revisiting Dilated Convolution A Simple Approach for Weakly- and Semi- Supervised Semantic Segmentation 2018 [[paepr]](https://arxiv.org/abs/1805.04574)
-#### Convolutional CRFs for Semantic Segmentation 2018 [[paper]](https://arxiv.org/abs/1805.04777)
+#### Convolutional CRFs for Semantic Segmentation 2018 [[paper]](https://arxiv.org/abs/1805.04777) [[code]](https://github.com/MarvinTeichmann/ConvCRF)
