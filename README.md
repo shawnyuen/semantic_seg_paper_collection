@@ -22,7 +22,6 @@
 ### Multi-scale Context Aggregation by Dilated Convolutions [[paper]](http://arxiv.org/abs/1511.07122)
 ### ParseNet Looking Wider to See Better [[paper]](https://arxiv.org/abs/1506.04579)
 ### Hypercolumns for Object Segmentation and Fine-grained Localization [[paper]](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Hariharan_Hypercolumns_for_Object_2015_CVPR_paper.pdf)
-
 ## 2016
 ### (DeepLab V2) DeepLab Semantic Image Segmentation with Deep Convolutional Nets Atrous Convolution and Fully Connected CRFs [[pami paper]](http://arxiv.org/abs/1606.00915)
 ### ENet A Deep Neural Network Architecture for Real-Time Semantic Segmentation [[paper]](https://arxiv.org/abs/1606.02147)
@@ -34,7 +33,7 @@
 ### Laplacian Pyramid Reconstruction and Refinement for Semantic Segmentation [[paper]](https://link.springer.com/chapter/10.1007/978-3-319-46487-9_32) [[matconvnet code]](https://github.com/golnazghiasi/LRR)
 ### Fast, Exact and Multi-scale Inference for Semantic Image Segmentation with Deep Gaussian CRFs 2016 [[paper]](https://link.springer.com/chapter/10.1007/978-3-319-46478-7_25)
 ### Gaussian Conditional Random Field Network for Semantic Segmentation [[paper]](https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Vemulapalli_Gaussian_Conditional_Random_CVPR_2016_paper.html)
-
+### MultiNet Real-time Joint Semantic Reasoning for Autonomous Driving 2016 [[paper]](https://arxiv.org/abs/1612.07695)
 ## 2017
 ### Large Kernel Matters - Improve Semantic Segmentation by Global Convolutional Network [[paper]](https://arxiv.org/abs/1703.02719)
 ### A Review on Deep Learning Techniques Applied to Semantic Segmentation [[paper]](https://arxiv.org/abs/1704.06857)
@@ -60,7 +59,7 @@
 ### End-to-end Semantic Face Segmentation with Conditional Random Fields as Convolutional Recurrent and Adversarial Networks [[paper]](https://arxiv.org/abs/1703.03305)
 ### Densely Connected Deconvolutional Network for Semantic Segmentation [[paper]](https://ieeexplore.ieee.org/abstract/document/8296850/)
 ### Gated Feedback Refinement Network for Dense Image Labeling [[paper]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Islam_Gated_Feedback_Refinement_CVPR_2017_paper.pdf) [[code]](https://github.com/mrochan/gfrnet)
-
+### Pixel Deconvolutional Networks 2017 [[paper]](https://arxiv.org/abs/1705.06820)
 ## 2018
 ### (DeepLab V3+) Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation  [[paper]](https://arxiv.org/abs/1802.02611)
 ### Path Aggregation Network for Instance Segmentation [[paper]](https://arxiv.org/abs/1803.01534)
