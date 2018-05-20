@@ -34,6 +34,7 @@
 ### Fast, Exact and Multi-scale Inference for Semantic Image Segmentation with Deep Gaussian CRFs 2016 [[paper]](https://link.springer.com/chapter/10.1007/978-3-319-46478-7_25)
 ### Gaussian Conditional Random Field Network for Semantic Segmentation [[paper]](https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Vemulapalli_Gaussian_Conditional_Random_CVPR_2016_paper.html)
 ### MultiNet Real-time Joint Semantic Reasoning for Autonomous Driving 2016 [[paper]](https://arxiv.org/abs/1612.07695)
+### Pixel-level Encoding and Depth Layering for Instance-level Semantic Labeling 2016 [[paper]](https://arxiv.org/abs/1604.05096)
 ## 2017
 ### Large Kernel Matters - Improve Semantic Segmentation by Global Convolutional Network [[paper]](https://arxiv.org/abs/1703.02719)
 ### A Review on Deep Learning Techniques Applied to Semantic Segmentation [[paper]](https://arxiv.org/abs/1704.06857)
@@ -60,6 +61,7 @@
 ### Densely Connected Deconvolutional Network for Semantic Segmentation [[paper]](https://ieeexplore.ieee.org/abstract/document/8296850/)
 ### Gated Feedback Refinement Network for Dense Image Labeling [[paper]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Islam_Gated_Feedback_Refinement_CVPR_2017_paper.pdf) [[code]](https://github.com/mrochan/gfrnet)
 ### Pixel Deconvolutional Networks 2017 [[paper]](https://arxiv.org/abs/1705.06820)
+### MaskLab Instance Segmentation by Refining Object Detection with Semantic and Direction Features 2018 [[paper]](https://arxiv.org/abs/1712.04837)
 ## 2018
 ### (DeepLab V3+) Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation  [[paper]](https://arxiv.org/abs/1802.02611)
 ### Path Aggregation Network for Instance Segmentation [[paper]](https://arxiv.org/abs/1803.01534)
@@ -68,4 +70,4 @@
 ### Progressive Refinement a Method of Coarse-to-fine Image Parsing Using Stacked Network [[paper]](https://arxiv.org/abs/1804.08256)
 ### ContextNet Exploring Context and Detail for Semantic Segmentation in Real-time 2018 [[paper]](https://arxiv.org/abs/1805.04554)
 ### Revisiting Dilated Convolution A Simple Approach for Weakly- and Semi- Supervised Semantic Segmentation 2018 [[paepr]](https://arxiv.org/abs/1805.04574)
-#### Convolutional CRFs for Semantic Segmentation 2018 [[paper]](https://arxiv.org/abs/1805.04777) [[code]](https://github.com/MarvinTeichmann/ConvCRF)
+### Convolutional CRFs for Semantic Segmentation 2018 [[paper]](https://arxiv.org/abs/1805.04777) [[code]](https://github.com/MarvinTeichmann/ConvCRF)
