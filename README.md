@@ -71,3 +71,4 @@
 ### ContextNet Exploring Context and Detail for Semantic Segmentation in Real-time 2018 [[paper]](https://arxiv.org/abs/1805.04554)
 ### Revisiting Dilated Convolution A Simple Approach for Weakly- and Semi- Supervised Semantic Segmentation 2018 [[paepr]](https://arxiv.org/abs/1805.04574)
 ### Convolutional CRFs for Semantic Segmentation 2018 [[paper]](https://arxiv.org/abs/1805.04777) [[code]](https://github.com/MarvinTeichmann/ConvCRF)
+### The Lovász-Softmax Loss A Tractable Surrogate for the Optimization of the Intersection-over-union Measure in Neural Networks 2018 [[code]](https://github.com/bermanmaxim/jaccardSegment)
