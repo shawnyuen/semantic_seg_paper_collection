@@ -45,6 +45,7 @@
 ### ScribbleSup Scribble-supervised Convolutional Networks for Semantic Segmentation CVPR 2016 [[paper]](http://arxiv.org/abs/1604.05144)
 ### Instance-aware Semantic Segmentation via Multi-task Network Cascades CVPR 2016 [[paper]](http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Dai_Instance-Aware_Semantic_Segmentation_CVPR_2016_paper.html)
 ### Multi-scale Patch Aggregation (MPA) for Simultaneous Detection and Segmentation CVPR 2016 [[paper]](http://openaccess.thecvf.com/content_cvpr_2016/html/Liu_Multi-Scale_Patch_Aggregation_CVPR_2016_paper.html)
+### Deep Interactive Object Selection CVPR 2016 [[paper]](https://arxiv.org/abs/1603.04042)
 
 ## 2017
 ### Large Kernel Matters - Improve Semantic Segmentation by Global Convolutional Network [[paper]](https://arxiv.org/abs/1703.02719)
@@ -84,6 +85,12 @@
 ### STC A Simple to Complex Framework for Weakly-Supervised Semantic Segmentation TPAMI 2017 [[paper]](https://ieeexplore.ieee.org/document/7775087/)
 ### Exploiting Saliency for Object Segmentation From Image Level Labels CVPR 2017 [[paper]](http://openaccess.thecvf.com/content_cvpr_2017/html/Oh_Exploiting_Saliency_for_CVPR_2017_paper.html)
 ### Discovering Class-Specific Pixels for Weakly-Supervised Semantic Segmentation BMVC 2017 [[paper]](https://arxiv.org/abs/1707.05821)
+### Deep GrabCut for Object Selection BMVC 2017 [[paper]](https://arxiv.org/abs/1707.00243)
+### Learning Video Object Segmentation from Static Images CVPR 2017 [[paper]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Perazzi_Learning_Video_Object_CVPR_2017_paper.pdf)
+### Simple Does It Weakly Supervised Instance and Semantic Segmentation CVPR 2017 [[paper]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Khoreva_Simple_Does_It_CVPR_2017_paper.pdf)
+### Pixelwise Instance Segmentation with a Dynamically Instantiated Network CVPR 2017 [[paper]](Pixelwise Instance Segmentation with a Dynamically Instantiated Network CVPR 2017)
+### Online Video Object Segmentation via Convolutional Trident Network CVPR 2017 [[paper]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Jang_Online_Video_Object_CVPR_2017_paper.pdf)
+### Regional Interactive Image Segmentation Networks ICCV 2017 [[paper]](http://openaccess.thecvf.com/content_iccv_2017/html/Liew_Regional_Interactive_Image_ICCV_2017_paper.html)
 
 ## 2018
 ### (DeepLab V3+) Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation  [[paper]](https://arxiv.org/abs/1802.02611)
@@ -96,3 +103,4 @@
 ### Convolutional CRFs for Semantic Segmentation 2018 [[paper]](https://arxiv.org/abs/1805.04777) [[code]](https://github.com/MarvinTeichmann/ConvCRF)
 ### The Lovász-Softmax Loss A Tractable Surrogate for the Optimization of the Intersection-over-union Measure in Neural Networks 2018 [[code]](https://github.com/bermanmaxim/jaccardSegment)
 ### Panoptic Segmentation 2018 [[paper]](https://arxiv.org/abs/1801.00868)
+### Deep Extreme Cut From Extreme Points to Object Segmentation CVPR 2018 [[paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Maninis_Deep_Extreme_Cut_CVPR_2018_paper.pdf)
