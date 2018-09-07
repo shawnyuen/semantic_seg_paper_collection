@@ -103,6 +103,7 @@
 ### Convolutional CRFs for Semantic Segmentation 2018 [[paper]](https://arxiv.org/abs/1805.04777) [[code]](https://github.com/MarvinTeichmann/ConvCRF)
 ### The Lovász-Softmax Loss A Tractable Surrogate for the Optimization of the Intersection-over-union Measure in Neural Networks 2018 [[code]](https://github.com/bermanmaxim/jaccardSegment)
 ### Panoptic Segmentation 2018 [[paper]](https://arxiv.org/abs/1801.00868)
+"introduction of panoptic segmentation"
 ### Deep Extreme Cut From Extreme Points to Object Segmentation CVPR 2018 [[paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Maninis_Deep_Extreme_Cut_CVPR_2018_paper.pdf)
 ### Deep Object Co-Segmentation [[paper]](https://arxiv.org/abs/1804.06423)
 ### Guide Me: Interacting with Deep Networks [[paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Rupprecht_Guide_Me_Interacting_CVPR_2018_paper.pdf)
@@ -126,7 +127,6 @@
 ### Geometric Constrained Joint Lane Segmentation and Lane Boundary Detection [[paper]](http://openaccess.thecvf.com/content_ECCV_2018/html/Jie_Zhang_Geometric_Constrained_Joint_ECCV_2018_paper.html)
 ### Efficient Uncertainty Estimation for Semantic Segmentation in Videos [[paper]](http://openaccess.thecvf.com/content_ECCV_2018/html/Po-Yu_Huang_Efficient_Uncertainty_Estimation_ECCV_2018_paper.html)
 ### PersonLab: Person Pose Estimation and Instance Segmentation with a Bottom-Up, Part-Based, Geometric Embedding Model [[paper]](http://openaccess.thecvf.com/content_ECCV_2018/html/George_Papandreou_PersonLab_Person_Pose_ECCV_2018_paper.html)
-### 
 ### ICNet for Real-Time Semantic Segmentation on High-Resolution Images [[paper]](http://openaccess.thecvf.com/content_ECCV_2018/html/Hengshuang_Zhao_ICNet_for_Real-Time_ECCV_2018_paper.html)
 ### Adaptive Affinity Fields for Semantic Segmentation [[paper]](http://openaccess.thecvf.com/content_ECCV_2018/html/Jyh-Jing_Hwang_Adaptive_Affinity_Field_ECCV_2018_paper.html)
 ### Video Object Segmentation by Learning Location-Sensitive Embeddings [[paper]](http://openaccess.thecvf.com/content_ECCV_2018/html/Hai_Ci_Video_Object_Segmentation_ECCV_2018_paper.html)
@@ -137,3 +137,5 @@
 ### Unsupervised Video Object Segmentation using Motion Saliency-Guided Spatio-Temporal Propagation [[paper]](http://openaccess.thecvf.com/content_ECCV_2018/html/Yuan-Ting_Hu_Unsupervised_Video_Object_ECCV_2018_paper.html)
 ### YouTube-VOS: Sequence-to-Sequence Video Object Segmentation [[paper]](http://openaccess.thecvf.com/content_ECCV_2018/html/Ning_Xu_YouTube-VOS_Sequence-to-Sequence_Video_ECCV_2018_paper.html)
 ### ESPNet: Efficient Spatial Pyramid of Dilated Convolutions for Semantic Segmentation [[paper]](http://openaccess.thecvf.com/content_ECCV_2018/html/Sachin_Mehta_ESPNet_Efficient_Spatial_ECCV_2018_paper.html)
+### Panoptic Segmentation with a Joint Semantic and Instance Segmentation Network 2018 [[paper]](https://arxiv.org/abs/1809.02110)
+"JSIS-Net"
