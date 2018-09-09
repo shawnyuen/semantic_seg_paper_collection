@@ -54,6 +54,7 @@
 "VOC 2012: 84.2 mAP"
 ### Pyramid Scene Parsing Network [[paper]](https://arxiv.org/abs/1612.01105)
 "VOC 2012: 85.4 mAP"
+### Multi-Scale Patch Aggregation (MPA) for Simultaneous Detection and Segmentation CVPR 2016 [[paper]](https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Liu_Multi-Scale_Patch_Aggregation_CVPR_2016_paper.html)
 
 ## 2017
 ### Large Kernel Matters - Improve Semantic Segmentation by Global Convolutional Network [[paper]](https://arxiv.org/abs/1703.02719)
@@ -89,6 +90,7 @@
 ### Mask R-CNN ICCV 2017 [[paper]](http://openaccess.thecvf.com/content_iccv_2017/html/He_Mask_R-CNN_ICCV_2017_paper.html)
 ### Fully Convolutional Instance-aware Semantic Segmentation CVPR 2017 [[paper]](https://arxiv.org/abs/1611.07709)
 ### Deep Watershed Transform for Instance Segmentation CVPR 2017 [[paper]](http://openaccess.thecvf.com/content_cvpr_2017/html/Bai_Deep_Watershed_Transform_CVPR_2017_paper.html)
+"combination of watershed and neural networks"
 ### Semantic Instance Segmentation with a Discriminative Loss Function CVPRW 2017 [[paper]](https://arxiv.org/abs/1708.02551)
 ### InstanceCut: from Edges to Instances with MultiCut CVPR 2017 [[paper]](https://arxiv.org/abs/1611.08272)
 ### SGN Sequential Grouping Networks for Instance Segmentation ICCV 2017 [[paper]](http://openaccess.thecvf.com/content_iccv_2017/html/Liu_SGN_Sequential_Grouping_ICCV_2017_paper.html)
@@ -149,3 +151,4 @@
 ### ESPNet: Efficient Spatial Pyramid of Dilated Convolutions for Semantic Segmentation [[paper]](http://openaccess.thecvf.com/content_ECCV_2018/html/Sachin_Mehta_ESPNet_Efficient_Spatial_ECCV_2018_paper.html)
 ### Panoptic Segmentation with a Joint Semantic and Instance Segmentation Network 2018 [[paper]](https://arxiv.org/abs/1809.02110)
 "JSIS-Net"
+### Semantic Soft Segmentation TOG 2018 [[paper]](http://people.inf.ethz.ch/aksoyy/papers/TOG18-sss.pdf) [[project]](http://people.inf.ethz.ch/aksoyy/sss/)
