@@ -133,7 +133,12 @@
 ### Depth-aware CNN for RGB-D Segmentation [[paper]](http://openaccess.thecvf.com/content_ECCV_2018/html/Weiyue_Wang_Depth-aware_CNN_for_ECCV_2018_paper.html)
 ### Unsupervised Video Object Segmentation with Motion-based Bilateral Networks [[paper]](http://openaccess.thecvf.com/content_ECCV_2018/html/Siyang_Li_Unsupervised_Video_Object_ECCV_2018_paper.html)
 ### Unsupervised Domain Adaptation for Semantic Segmentation via Class-Balanced Self-Training [[paper]](http://openaccess.thecvf.com/content_ECCV_2018/html/Yang_Zou_Unsupervised_Domain_Adaptation_ECCV_2018_paper.html)
-### BiSeNet: Bilateral Segmentation Network for Real-time Semantic Segmentation [[paper]](http://openaccess.thecvf.com/content_ECCV_2018/html/Changqian_Yu_BiSeNet_Bilateral_Segmentation_ECCV_2018_paper.html)
+### BiSeNet: Bilateral Segmentation Network for Real-time Semantic Segmentation ECCV 2018 [[paper]](http://openaccess.thecvf.com/content_ECCV_2018/html/Changqian_Yu_BiSeNet_Bilateral_Segmentation_ECCV_2018_paper.html)
+### (DFN) Learning a Discriminative Feature Network for Semantic Segmentation CVPR 2018 [[paper]](https://arxiv.org/abs/1804.09337)
+"Smooth Network for intra-class inconsistency using global pooling layer at the end of encoder, and Border Network for inter-class indistinction using focal loss as boundary loss", 
+"deep supervision in both Smooth and Border Networks", 
+"similarly in stacked hourglass networks, skip connection with tranformation including (Refinement Residual Block, proposed in RefineNet) RRB and (Channel Attention Block, proposed in SENet) CAB is used in this paper"
+"this paper combines many known traicks"
 ### Associating Inter-Image Salient Instances for Weakly Supervised Semantic Segmentation [[paper]](http://openaccess.thecvf.com/content_ECCV_2018/html/Ruochen_Fan_Associating_Inter-Image_Salient_ECCV_2018_paper.html)
 ### Leveraging Motion Priors in Videos for Improving Human Segmentation [[paper]](http://openaccess.thecvf.com/content_ECCV_2018/html/Yu-Ting_Chen_Leveraging_Motion_Priors_ECCV_2018_paper.html)
 ### Geometric Constrained Joint Lane Segmentation and Lane Boundary Detection [[paper]](http://openaccess.thecvf.com/content_ECCV_2018/html/Jie_Zhang_Geometric_Constrained_Joint_ECCV_2018_paper.html)
