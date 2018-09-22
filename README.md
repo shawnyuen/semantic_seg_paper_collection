@@ -100,7 +100,7 @@
 ### Deep GrabCut for Object Selection BMVC 2017 [[paper]](https://arxiv.org/abs/1707.00243)
 ### Learning Video Object Segmentation from Static Images CVPR 2017 [[paper]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Perazzi_Learning_Video_Object_CVPR_2017_paper.pdf)
 ### Simple Does It Weakly Supervised Instance and Semantic Segmentation CVPR 2017 [[paper]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Khoreva_Simple_Does_It_CVPR_2017_paper.pdf)
-### Pixelwise Instance Segmentation with a Dynamically Instantiated Network CVPR 2017 [[paper]](Pixelwise Instance Segmentation with a Dynamically Instantiated Network CVPR 2017)
+### Pixelwise Instance Segmentation with a Dynamically Instantiated Network CVPR 2017 [[paper]](http://openaccess.thecvf.com/content_cvpr_2017/html/Arnab_Pixelwise_Instance_Segmentation_CVPR_2017_paper.html)
 ### Online Video Object Segmentation via Convolutional Trident Network CVPR 2017 [[paper]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Jang_Online_Video_Object_CVPR_2017_paper.pdf)
 ### Regional Interactive Image Segmentation Networks ICCV 2017 [[paper]](http://openaccess.thecvf.com/content_iccv_2017/html/Liew_Regional_Interactive_Image_ICCV_2017_paper.html)
 
@@ -135,10 +135,7 @@
 ### Unsupervised Domain Adaptation for Semantic Segmentation via Class-Balanced Self-Training [[paper]](http://openaccess.thecvf.com/content_ECCV_2018/html/Yang_Zou_Unsupervised_Domain_Adaptation_ECCV_2018_paper.html)
 ### BiSeNet: Bilateral Segmentation Network for Real-time Semantic Segmentation ECCV 2018 [[paper]](http://openaccess.thecvf.com/content_ECCV_2018/html/Changqian_Yu_BiSeNet_Bilateral_Segmentation_ECCV_2018_paper.html)
 ### (DFN) Learning a Discriminative Feature Network for Semantic Segmentation CVPR 2018 [[paper]](https://arxiv.org/abs/1804.09337)
-"Smooth Network for intra-class inconsistency using global pooling layer at the end of encoder, and Border Network for inter-class indistinction using focal loss as boundary loss", 
-"deep supervision in both Smooth and Border Networks", 
-"similarly in stacked hourglass networks, skip connection with tranformation including (Refinement Residual Block, proposed in RefineNet) RRB and (Channel Attention Block, proposed in SENet) CAB is used in this paper"
-"this paper combines many known traicks"
+"Smooth Network for intra-class inconsistency using global pooling layer at the end of encoder, and Border Network for inter-class indistinction using focal loss as boundary loss", "deep supervision in both Smooth and Border Networks", "similarly in stacked hourglass networks, skip connection with tranformation including (Refinement Residual Block, proposed in RefineNet) RRB and (Channel Attention Block, proposed in SENet) CAB is used in this paper", "this paper combines many known tricks"
 ### Associating Inter-Image Salient Instances for Weakly Supervised Semantic Segmentation [[paper]](http://openaccess.thecvf.com/content_ECCV_2018/html/Ruochen_Fan_Associating_Inter-Image_Salient_ECCV_2018_paper.html)
 ### Leveraging Motion Priors in Videos for Improving Human Segmentation [[paper]](http://openaccess.thecvf.com/content_ECCV_2018/html/Yu-Ting_Chen_Leveraging_Motion_Priors_ECCV_2018_paper.html)
 ### Geometric Constrained Joint Lane Segmentation and Lane Boundary Detection [[paper]](http://openaccess.thecvf.com/content_ECCV_2018/html/Jie_Zhang_Geometric_Constrained_Joint_ECCV_2018_paper.html)
