@@ -156,3 +156,4 @@
 ### Semantic Soft Segmentation TOG 2018 [[paper]](http://people.inf.ethz.ch/aksoyy/papers/TOG18-sss.pdf) [[project]](http://people.inf.ethz.ch/aksoyy/sss/)
 ### Searching for Efficient Multi-Scale Architectures for Dense Image Prediction NIPS 2018 [[paper]](https://arxiv.org/abs/1809.04184)
 "Liang-Chieh Chen's new work on NAS and Dense Image Prediction, including scene parsing, person-part segmentation and semantic image segmentation"
+### MobileNetV2: Inverted Residuals and Linear Bottlenecks 2018 [[paper]](https://arxiv.org/abs/1801.04381)
