@@ -150,7 +150,8 @@
 ### Bayesian Semantic Instance Segmentation in Open Set World [[paper]](http://openaccess.thecvf.com/content_ECCV_2018/html/Trung_Pham_Bayesian_Instance_Segmentation_ECCV_2018_paper.html)
 ### Unsupervised Video Object Segmentation using Motion Saliency-Guided Spatio-Temporal Propagation [[paper]](http://openaccess.thecvf.com/content_ECCV_2018/html/Yuan-Ting_Hu_Unsupervised_Video_Object_ECCV_2018_paper.html)
 ### YouTube-VOS: Sequence-to-Sequence Video Object Segmentation [[paper]](http://openaccess.thecvf.com/content_ECCV_2018/html/Ning_Xu_YouTube-VOS_Sequence-to-Sequence_Video_ECCV_2018_paper.html)
-### ESPNet: Efficient Spatial Pyramid of Dilated Convolutions for Semantic Segmentation [[paper]](http://openaccess.thecvf.com/content_ECCV_2018/html/Sachin_Mehta_ESPNet_Efficient_Spatial_ECCV_2018_paper.html)
+### ESPNet: Efficient Spatial Pyramid of Dilated Convolutions for Semantic Segmentation ECCV 2018 [[paper]](http://openaccess.thecvf.com/content_ECCV_2018/html/Sachin_Mehta_ESPNet_Efficient_Spatial_ECCV_2018_paper.html)
+### ESPNetv2 A Light-weight Power Efficient and General Purpose Convolutional Neural Network ArXiv 2018 [[paper]](https://arxiv.org/abs/1811.11431) [[code]](https://github.com/sacmehta/ESPNetv2)
 ### Panoptic Segmentation with a Joint Semantic and Instance Segmentation Network 2018 [[paper]](https://arxiv.org/abs/1809.02110)
 "JSIS-Net"
 ### Semantic Soft Segmentation TOG 2018 [[paper]](http://people.inf.ethz.ch/aksoyy/papers/TOG18-sss.pdf) [[project]](http://people.inf.ethz.ch/aksoyy/sss/)
