@@ -190,3 +190,6 @@
 ### Weakly Supervised Instance Segmentation Using Class Peak Response CVPR 2018 [[paper]](https://arxiv.org/abs/1804.00880)
 ### Weakly- and Semi-Supervised Panoptic Segmentation ECCV 2018 [[paper]](http://openaccess.thecvf.com/content_ECCV_2018/html/Anurag_Arnab_Weakly-_and_Semi-Supervised_ECCV_2018_paper.html)
 ### YouTube-VOS Sequence-to-Sequence Video Object Segmentation ECCV 2018 [[paper]](http://openaccess.thecvf.com/content_ECCV_2018/html/Ning_Xu_YouTube-VOS_Sequence-to-Sequence_Video_ECCV_2018_paper.html)
+
+## 2019
+### Expectation-Maximization Attention Networks for Semantic Segmentation ICCV 2019 (Oral) [[paper]](https://arxiv.org/abs/1907.13426) [[code]](https://github.com/XiaLiPKU/EMANet)
