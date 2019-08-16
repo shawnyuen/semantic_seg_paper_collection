@@ -111,6 +111,7 @@
 ### Understanding Convolution for Semantic Segmentation 2017 [[paper]](https://arxiv.org/abs/1702.08502)
 "Figure 5. Effectiveness of HDC (Hybrid Dilated Convolution) in eliminating the gridding effect."
 ### Universal Adversarial Perturbations Against Semantic Image Segmentation 2017 [[paper]](https://arxiv.org/abs/1704.05712)
+### Deep Dual Learning for Semantic Image Segmentation ICCV 2017 [[paper]](http://openaccess.thecvf.com/content_iccv_2017/html/Luo_Deep_Dual_Learning_ICCV_2017_paper.html)
 
 ## 2018
 ### A Fully Convolutional Two-Stream Fusion Network for Interactive Image Segmentation Neural Networks 2019 [[paper]](https://arxiv.org/abs/1807.02480) [[NN paper]](https://www.sciencedirect.com/science/article/pii/S0893608018302946)
@@ -132,7 +133,6 @@
 ### Depth-aware CNN for RGB-D Segmentation ECCV 2018 [[paper]](http://openaccess.thecvf.com/content_ECCV_2018/html/Weiyue_Wang_Depth-aware_CNN_for_ECCV_2018_paper.html)
 ### Diagnostics in Semantic Segmentation 2018 [[paper]](https://arxiv.org/abs/1809.10328)
 ### DSNet for Real-Time Driving Scene Semantic Segmentation 2018 [[paper]](https://arxiv.org/abs/1812.07049)
-### Dual Attention Network for Scene Segmentation ArXiv 2018 [[paper]](https://arxiv.org/abs/1809.02983)
 ### Dynamic Video Segmentation Network CVPR 2018 [[paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Xu_Dynamic_Video_Segmentation_CVPR_2018_paper.pdf)
 ### Efficient Dense Modules of Asymmetric Convolution for Real-Time Semantic Segmentation 2018 [[paper]](https://arxiv.org/abs/1809.06323)
 ### Efficient Uncertainty Estimation for Semantic Segmentation in Videos ECCV 2018 [[paper]](http://openaccess.thecvf.com/content_ECCV_2018/html/Po-Yu_Huang_Efficient_Uncertainty_Estimation_ECCV_2018_paper.html)
@@ -193,3 +193,5 @@
 
 ## 2019
 ### Expectation-Maximization Attention Networks for Semantic Segmentation ICCV 2019 (Oral) [[paper]](https://arxiv.org/abs/1907.13426) [[code]](https://github.com/XiaLiPKU/EMANet)
+### Dual Attention Network for Scene Segmentation CVPR 2019 [[ArXiv paper]](https://arxiv.org/abs/1809.02983)
+### Stacked Deconvolutional Network for Semantic Segmentation IEEE TIP 2019 [[paper]](https://ieeexplore.ieee.org/document/8626494)
