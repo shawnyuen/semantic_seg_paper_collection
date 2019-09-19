@@ -1,7 +1,9 @@
 # SemanticSegPaperCollection
 ## Surver or Review
-### A Review on Deep Learning Techniques Applied to Semantic Segmentation 2017 [[paper]](https://arxiv.org/abs/1704.06857)
-### Survey of Recent Progress in Semantic Image Segmentation with CNNs 2018 [[paper]](https://link.springer.com/article/10.1007/s11432-017-9189-6)
+### A Review on Deep Learning Techniques Applied to Semantic Segmentation arXiv 2017 [[paper]](https://arxiv.org/abs/1704.06857)
+### Survey of Recent Progress in Semantic Image Segmentation with CNNs SCIS 2018 [[paper]](https://link.springer.com/article/10.1007/s11432-017-9189-6)
+### Survey on Semantic Segmentation Using Deep Learning Techniques Neurocomputing 2019 [[paper]](https://www.sciencedirect.com/science/article/pii/S092523121930181X)
+### Understanding Deep Learning Techniques for Image Segmentation arXiv 2019 [[paper]](https://arxiv.org/abs/1907.06119)
 
 ## Dataset
 ### (VOC) The Pascal Visual Object Classes (VOC) Challenge IJCV 2010 [[paper]](https://link.springer.com/article/10.1007/s11263-009-0275-4)
