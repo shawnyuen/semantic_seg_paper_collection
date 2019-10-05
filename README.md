@@ -198,3 +198,4 @@
 ### Expectation-Maximization Attention Networks for Semantic Segmentation ICCV 2019 (Oral) [[paper]](https://arxiv.org/abs/1907.13426) [[code]](https://github.com/XiaLiPKU/EMANet)
 ### Dual Attention Network for Scene Segmentation CVPR 2019 [[ArXiv paper]](https://arxiv.org/abs/1809.02983)
 ### Stacked Deconvolutional Network for Semantic Segmentation IEEE TIP 2019 [[paper]](https://ieeexplore.ieee.org/document/8626494)
+### (ACFNet) ACFNet Attentional Class Feature Network for Semantic Segmentation ICCV 2019 [[paper]](https://arxiv.org/abs/1909.09408)
