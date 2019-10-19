@@ -5,6 +5,8 @@
 ### Survey on Semantic Segmentation Using Deep Learning Techniques Neurocomputing 2019 [[paper]](https://www.sciencedirect.com/science/article/pii/S092523121930181X)
 ### Understanding Deep Learning Techniques for Image Segmentation arXiv 2019 [[paper]](https://arxiv.org/abs/1907.06119)
 ### Methods and Datasets on Semantic Segmentation: A Review Neurocomputing 2018 [[paper]](https://www.sciencedirect.com/science/article/pii/S0925231218304077)
+### A Review of Semantic Segmentation Using Deep Neural Networks IJMIR 2019 [[paper]](https://link.springer.com/article/10.1007/s13735-017-0141-z)
+### Deep Semantic Segmentation of Natural and Medical Images A Review arXiv 2019 [[paper]](https://arxiv.org/abs/1910.07655)
 
 ## Dataset
 ### (VOC) The Pascal Visual Object Classes (VOC) Challenge IJCV 2010 [[paper]](https://link.springer.com/article/10.1007/s11263-009-0275-4)
