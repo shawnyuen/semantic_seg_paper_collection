@@ -195,6 +195,7 @@
 ### Weakly Supervised Instance Segmentation Using Class Peak Response CVPR 2018 [[paper]](https://arxiv.org/abs/1804.00880)
 ### Weakly- and Semi-Supervised Panoptic Segmentation ECCV 2018 [[paper]](http://openaccess.thecvf.com/content_ECCV_2018/html/Anurag_Arnab_Weakly-_and_Semi-Supervised_ECCV_2018_paper.html)
 ### YouTube-VOS Sequence-to-Sequence Video Object Segmentation ECCV 2018 [[paper]](http://openaccess.thecvf.com/content_ECCV_2018/html/Ning_Xu_YouTube-VOS_Sequence-to-Sequence_Video_ECCV_2018_paper.html)
+### Context Contrasted Feature and Gated Multi-Scale Aggregation for Scene Segmentation CVPR 2018 [[paper]](http://openaccess.thecvf.com/content_cvpr_2018/html/Ding_Context_Contrasted_Feature_CVPR_2018_paper.html)
 
 ## 2019
 ### Stacked Deconvolutional Network for Semantic Segmentation IEEE TIP 2019 [[paper]](https://ieeexplore.ieee.org/document/8626494)
