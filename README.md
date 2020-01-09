@@ -253,3 +253,6 @@
 ### Grid Saliency for Context Explanations of Semantic Segmentation NIPS 2019 [[paper]](https://papers.nips.cc/paper/8874-grid-saliency-for-context-explanations-of-semantic-segmentation)
 ### Multi-source Domain Adaptation for Semantic Segmentation NIPS 2019 [[paper]](https://papers.nips.cc/paper/8949-multi-source-domain-adaptation-for-semantic-segmentation)
 ### Stacked U-Nets: A No-Frills Approach to Natural Image Segmentation [[paper]](https://openreview.net/forum?id=BJgFcj0qKX)
+
+## 2020
+### BlendMask: Top-Down Meets Bottom-Up for Instance Segmentation [[paper]](https://arxiv.org/abs/2001.00309)
