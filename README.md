@@ -8,6 +8,7 @@
 ### A Review of Semantic Segmentation Using Deep Neural Networks IJMIR 2019 [[paper]](https://link.springer.com/article/10.1007/s13735-017-0141-z)
 ### Deep Semantic Segmentation of Natural and Medical Images A Review arXiv 2019 [[paper]](https://arxiv.org/abs/1910.07655)
 ### Evolution of Image Segmentation using Deep Convolutional Neural Network A Survey arXiv 2020 [[paper]](https://arxiv.org/abs/2001.04074)
+### Image Segmentation Using Deep Learning A Survey arXiv 2020 [[paper]](https://arxiv.org/abs/2001.05566)
 
 ## Dataset
 ### (VOC) The Pascal Visual Object Classes (VOC) Challenge IJCV 2010 [[paper]](https://link.springer.com/article/10.1007/s11263-009-0275-4)
