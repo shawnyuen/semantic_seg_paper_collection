@@ -258,3 +258,4 @@
 
 ## 2020
 ### BlendMask: Top-Down Meets Bottom-Up for Instance Segmentation [[paper]](https://arxiv.org/abs/2001.00309)
+### Deep Convolutional Neural Networks with Spatial Regularization, Volume and Star-shape Priori for Image Segmentation arXiv 2020 [[paper]](https://arxiv.org/abs/2002.03989)
