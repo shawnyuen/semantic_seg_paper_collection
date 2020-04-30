@@ -119,6 +119,7 @@
 "Figure 5. Effectiveness of HDC (Hybrid Dilated Convolution) in eliminating the gridding effect."
 ### Universal Adversarial Perturbations Against Semantic Image Segmentation 2017 [[paper]](https://arxiv.org/abs/1704.05712)
 ### Deep Dual Learning for Semantic Image Segmentation ICCV 2017 [[paper]](http://openaccess.thecvf.com/content_iccv_2017/html/Luo_Deep_Dual_Learning_ICCV_2017_paper.html)
+### BlitzNet A Real-Time Deep Network for Scene Understanding ICCV 2017 [[paper]](http://openaccess.thecvf.com/content_iccv_2017/html/Dvornik_BlitzNet_A_Real-Time_ICCV_2017_paper.html)
 
 ## 2018
 ### A Fully Convolutional Two-Stream Fusion Network for Interactive Image Segmentation Neural Networks 2019 [[paper]](https://arxiv.org/abs/1807.02480) [[NN paper]](https://www.sciencedirect.com/science/article/pii/S0893608018302946)
