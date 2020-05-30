@@ -154,7 +154,6 @@
 ### Geometric Constrained Joint Lane Segmentation and Lane Boundary Detection ECCV 2018 [[paper]](http://openaccess.thecvf.com/content_ECCV_2018/html/Jie_Zhang_Geometric_Constrained_Joint_ECCV_2018_paper.html)
 ### Guide Me Interacting with Deep Networks CVPR 2018 [[paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Rupprecht_Guide_Me_Interacting_CVPR_2018_paper.pdf)
 ### ICNet for Real-Time Semantic Segmentation on High-Resolution Images ECCV 2018 [[paper]](http://openaccess.thecvf.com/content_ECCV_2018/html/Hengshuang_Zhao_ICNet_for_Real-Time_ECCV_2018_paper.html)
-### Improving Semantic Segmentation via Video Propagation and Label Relaxation 2018 [[paper]](https://arxiv.org/abs/1812.01593)
 ### Interactive Full Image Segmentation 2018 [[paper]](https://arxiv.org/abs/1812.01888)
 ### Interactive Image Segmentation with Latent Diversity CVPR 2018 [[paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Li_Interactive_Image_Segmentation_CVPR_2018_paper.pdf)
 ### Iteratively Trained Interactive Segmentation 2018 [[paper]](https://arxiv.org/abs/1805.04398)
@@ -171,7 +170,7 @@
 "introduction of panoptic segmentation"
 ### Panoptic Segmentation with a Joint Semantic and Instance Segmentation Network 2018 [[paper]](https://arxiv.org/abs/1809.02110)
 "JSIS-Net"
-### (PAN) Path Aggregation Network for Instance Segmentation CVPR 2018 [[paper]](https://arxiv.org/abs/1803.01534)
+### (PAN/PANet) Path Aggregation Network for Instance Segmentation CVPR 2018 [[paper]](https://arxiv.org/abs/1803.01534)
 ### Penalizing Top Performers: Conservative Loss for Semantic Segmentation Adaptation ECCV 2018 [[paper]](http://openaccess.thecvf.com/content_ECCV_2018/html/Xinge_Zhu_Penalizing_Top_Performers_ECCV_2018_paper.html)
 ### (PersonLab) PersonLab Person Pose Estimation and Instance Segmentation with a Bottom-Up, Part-Based, Geometric Embedding Model ECCV 2018 [[paper]](http://openaccess.thecvf.com/content_ECCV_2018/html/George_Papandreou_PersonLab_Person_Pose_ECCV_2018_paper.html)
 ### Progressive Refinement a Method of Coarse-to-fine Image Parsing Using Stacked Network 2018 [[paper]](https://arxiv.org/abs/1804.08256)
@@ -224,7 +223,7 @@
 ### ZigZagNet: Fusing Top-Down and Bottom-Up Context for Object Segmentation CVPR 2019 [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Lin_ZigZagNet_Fusing_Top-Down_and_Bottom-Up_Context_for_Object_Segmentation_CVPR_2019_paper.html)
 ### Adaptive Pyramid Context Network for Semantic Segmentation CVPR 2019 [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/He_Adaptive_Pyramid_Context_Network_for_Semantic_Segmentation_CVPR_2019_paper.html)
 ### UPSNet: A Unified Panoptic Segmentation Network CVPR 2019 [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Xiong_UPSNet_A_Unified_Panoptic_Segmentation_Network_CVPR_2019_paper.html)
-### Improving Semantic Segmentation via Video Propagation and Label Relaxation CVPR 2019 [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Zhu_Improving_Semantic_Segmentation_via_Video_Propagation_and_Label_Relaxation_CVPR_2019_paper.html)
+### Improving Semantic Segmentation via Video Propagation and Label Relaxation CVPR 2019 [[CVPR paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Zhu_Improving_Semantic_Segmentation_via_Video_Propagation_and_Label_Relaxation_CVPR_2019_paper.html) [[arXiv paper]](https://arxiv.org/abs/1812.01593)
 ### Panoptic Segmentation CVPR 2019 [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Kirillov_Panoptic_Segmentation_CVPR_2019_paper.html)
 ### DFANet: Deep Feature Aggregation for Real-Time Semantic Segmentation CVPR 2019 [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Li_DFANet_Deep_Feature_Aggregation_for_Real-Time_Semantic_Segmentation_CVPR_2019_paper.html)
 ### Customizable Architecture Search for Semantic Segmentation CVPR 2019 [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Zhang_Customizable_Architecture_Search_for_Semantic_Segmentation_CVPR_2019_paper.html)
@@ -256,7 +255,16 @@
 ### Grid Saliency for Context Explanations of Semantic Segmentation NIPS 2019 [[paper]](https://papers.nips.cc/paper/8874-grid-saliency-for-context-explanations-of-semantic-segmentation)
 ### Multi-source Domain Adaptation for Semantic Segmentation NIPS 2019 [[paper]](https://papers.nips.cc/paper/8949-multi-source-domain-adaptation-for-semantic-segmentation)
 ### Stacked U-Nets: A No-Frills Approach to Natural Image Segmentation [[paper]](https://openreview.net/forum?id=BJgFcj0qKX)
+### Seamless Scene Segmentation CVPR 2019 [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Porzi_Seamless_Scene_Segmentation_CVPR_2019_paper.html)
+### Panoptic-DeepLab ICCVW 2019 [[paper]](https://arxiv.org/abs/1910.04751)
+### PolyTransform: Deep Polygon Transformer for Instance Segmentation arXiv 2019 [[paper]](https://arxiv.org/abs/1912.02801)
+### Object-Contextual Representations for Semantic Segmentation arXiv 2019 [[paper]](https://arxiv.org/abs/1909.11065)
 
 ## 2020
-### BlendMask: Top-Down Meets Bottom-Up for Instance Segmentation [[paper]](https://arxiv.org/abs/2001.00309)
+### BlendMask Top-Down Meets Bottom-Up for Instance Segmentation arXiv 2020 [[paper]](https://arxiv.org/abs/2001.00309)
 ### Deep Convolutional Neural Networks with Spatial Regularization, Volume and Star-shape Priori for Image Segmentation arXiv 2020 [[paper]](https://arxiv.org/abs/2002.03989)
+### Leveraging Semi-Supervised Learning in Video Sequences for Urban Scene Segmentation arXiv 2020 [[paper]](https://arxiv.org/abs/2005.10266)
+"on Cityscapes test-fine set, Navie-Student gets mIoU 85.2%."
+### Hierarchical Multi-Scale Attention for Semantic Segmentation arXiv 2020 [[paper]]()
+### Unifying Training and Inference for Panoptic Segmentation CVPR 2020 [[paper]](https://arxiv.org/abs/2001.04982)
+### Panoptic-DeepLab: A Simple, Strong, and Fast Baseline for Bottom-Up Panoptic Segmentation CVPR 2020 [[paper]](https://arxiv.org/abs/1911.10194)
