@@ -263,10 +263,11 @@
 ## 2020
 ### BlendMask Top-Down Meets Bottom-Up for Instance Segmentation arXiv 2020 [[paper]](https://arxiv.org/abs/2001.00309)
 ### Deep Convolutional Neural Networks with Spatial Regularization, Volume and Star-shape Priori for Image Segmentation arXiv 2020 [[paper]](https://arxiv.org/abs/2002.03989)
-### (Naive-Student) Leveraging Semi-Supervised Learning in Video Sequences for Urban Scene Segmentation arXiv 2020 [[paper]](https://arxiv.org/abs/2005.10266)
-"on Cityscapes test-fine set, Navie-Student gets mIoU 85.2%."
 ### Hierarchical Multi-Scale Attention for Semantic Segmentation arXiv 2020 [[paper]](https://arxiv.org/abs/2005.10821)
 "on Cityscapes test set, Hierarchical Multi-Scale Attention gets mIoU 85.4%.", "on Mapillary validation set, it gets mIoU 61.1%."
-### Unifying Training and Inference for Panoptic Segmentation CVPR 2020 [[paper]](https://arxiv.org/abs/2001.04982)
-### Panoptic-DeepLab: A Simple, Strong, and Fast Baseline for Bottom-Up Panoptic Segmentation CVPR 2020 [[paper]](https://arxiv.org/abs/1911.10194)
 ### Interactive Object Segmentation with Inside-Outside Guidance CVPR 2020 [[paper]]()
+### (Naive-Student) Leveraging Semi-Supervised Learning in Video Sequences for Urban Scene Segmentation arXiv 2020 [[paper]](https://arxiv.org/abs/2005.10266)
+"on Cityscapes test-fine set, Navie-Student gets mIoU 85.2%."
+### Panoptic-DeepLab: A Simple, Strong, and Fast Baseline for Bottom-Up Panoptic Segmentation CVPR 2020 [[paper]](https://arxiv.org/abs/1911.10194)
+### Unifying Training and Inference for Panoptic Segmentation CVPR 2020 [[paper]](https://arxiv.org/abs/2001.04982)
+### Unsupervised Intra-Domain Adaptation for Semantic Segmentation Through Self-Supervision CVPR 2020 [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/html/Pan_Unsupervised_Intra-Domain_Adaptation_for_Semantic_Segmentation_Through_Self-Supervision_CVPR_2020_paper.html) [[PyTorch code]](https://github.com/feipan664/IntraDA)
