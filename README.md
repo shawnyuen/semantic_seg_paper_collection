@@ -258,6 +258,7 @@
 ### Seamless Scene Segmentation CVPR 2019 [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Porzi_Seamless_Scene_Segmentation_CVPR_2019_paper.html)
 ### Panoptic-DeepLab ICCVW 2019 [[paper]](https://arxiv.org/abs/1910.04751)
 ### PolyTransform: Deep Polygon Transformer for Instance Segmentation arXiv 2019 [[paper]](https://arxiv.org/abs/1912.02801)
+### Object Instance Annotation With Deep Extreme Level Set Evolution CVPR 2019 [[paper]](https://openaccess.thecvf.com/content_CVPR_2019/html/Wang_Object_Instance_Annotation_With_Deep_Extreme_Level_Set_Evolution_CVPR_2019_paper.html)
 ### Object-Contextual Representations for Semantic Segmentation arXiv 2019 [[paper]](https://arxiv.org/abs/1909.11065)
 
 ## 2020
