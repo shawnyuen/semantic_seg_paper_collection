@@ -262,13 +262,16 @@
 ### Object-Contextual Representations for Semantic Segmentation arXiv 2019 [[paper]](https://arxiv.org/abs/1909.11065)
 
 ## 2020
+### Beyond Single Stage Encoder-Decoder Networks: Deep Decoders for Semantic Image Segmentation arXiv 2020 [[paper]](https://arxiv.org/abs/2007.09746)
 ### BlendMask Top-Down Meets Bottom-Up for Instance Segmentation arXiv 2020 [[paper]](https://arxiv.org/abs/2001.00309)
 ### Boundary-preserving Mask R-CNN ECCV 2020 [[paper]](https://arxiv.org/abs/2007.08921) [[code]](https://github.com/hustvl/BMaskR-CNN)
+### Classes Matter: A Fine-grained Adversarial Approach to Cross-domain Semantic Segmentation ECCV 2020 [[paper]](https://arxiv.org/abs/2007.09222)
 ### Deep Convolutional Neural Networks with Spatial Regularization, Volume and Star-shape Priori for Image Segmentation arXiv 2020 [[paper]](https://arxiv.org/abs/2002.03989)
 ### Hierarchical Multi-Scale Attention for Semantic Segmentation arXiv 2020 [[paper]](https://arxiv.org/abs/2005.10821)
 "on Cityscapes test set, Hierarchical Multi-Scale Attention gets mIoU 85.4%.", "on Mapillary validation set, it gets mIoU 61.1%."
 ### HigherHRNet: Scale-Aware Representation Learning for Bottom-Up Human Pose Estimation CVPR 2020 [[paper]](https://arxiv.org/abs/1908.10357)
 "Bottom-up Higher-Resolution Networks for Multi-Person Pose Estimation"
+### Improving Semantic Segmentation via Decoupled Body and Edge Supervision ECCV 2020 [[paper]](https://arxiv.org/abs/2007.10035)
 ### Interactive Object Segmentation with Inside-Outside Guidance CVPR 2020 [[paper]](http://openaccess.thecvf.com/content_CVPR_2020/html/Zhang_Interactive_Object_Segmentation_With_Inside-Outside_Guidance_CVPR_2020_paper.html)
 ### (Naive-Student) Leveraging Semi-Supervised Learning in Video Sequences for Urban Scene Segmentation arXiv 2020 [[paper]](https://arxiv.org/abs/2005.10266)
 "on Cityscapes test-fine set, Navie-Student gets mIoU 85.2%."
