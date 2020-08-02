@@ -1,4 +1,5 @@
 # SemanticSegPaperCollection
+
 ## Surver or Review
 ### A Review on Deep Learning Techniques Applied to Semantic Segmentation arXiv 2017 [[paper]](https://arxiv.org/abs/1704.06857)
 ### Survey of Recent Progress in Semantic Image Segmentation with CNNs SCIS 2018 [[paper]](https://link.springer.com/article/10.1007/s11432-017-9189-6)
@@ -267,6 +268,7 @@
 ### Boundary-preserving Mask R-CNN ECCV 2020 [[paper]](https://arxiv.org/abs/2007.08921) [[code]](https://github.com/hustvl/BMaskR-CNN)
 ### Classes Matter: A Fine-grained Adversarial Approach to Cross-domain Semantic Segmentation ECCV 2020 [[paper]](https://arxiv.org/abs/2007.09222)
 ### Deep Convolutional Neural Networks with Spatial Regularization, Volume and Star-shape Priori for Image Segmentation arXiv 2020 [[paper]](https://arxiv.org/abs/2002.03989)
+### FasterSeg Searching for Faster Real-time Semantic Segmentation ICLR 2020 [[paper]](https://arxiv.org/abs/1912.10917) [[code]](https://github.com/TAMU-VITA/FasterSeg)
 ### Hierarchical Multi-Scale Attention for Semantic Segmentation arXiv 2020 [[paper]](https://arxiv.org/abs/2005.10821)
 "on Cityscapes test set, Hierarchical Multi-Scale Attention gets mIoU 85.4%.", "on Mapillary validation set, it gets mIoU 61.1%."
 ### HigherHRNet: Scale-Aware Representation Learning for Bottom-Up Human Pose Estimation CVPR 2020 [[paper]](https://arxiv.org/abs/1908.10357)
