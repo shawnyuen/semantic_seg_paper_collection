@@ -280,6 +280,7 @@
 ### Interactive Object Segmentation with Inside-Outside Guidance CVPR 2020 [[paper]](http://openaccess.thecvf.com/content_CVPR_2020/html/Zhang_Interactive_Object_Segmentation_With_Inside-Outside_Guidance_CVPR_2020_paper.html)
 ### (Naive-Student) Leveraging Semi-Supervised Learning in Video Sequences for Urban Scene Segmentation arXiv 2020 [[paper]](https://arxiv.org/abs/2005.10266)
 "on Cityscapes test-fine set, Navie-Student gets mIoU 85.2%."
+### Disentangled Non-Local Neural Networks ECCV 2020 [[arXiv paper]](https://arxiv.org/abs/2006.06668) [[SemanticSeg code]](https://github.com/yinmh17/DNL-Semantic-Segmentation) [[ObjectDetect code]](https://github.com/Howal/DNL-Object-Detection)
 ### Panoptic-DeepLab: A Simple, Strong, and Fast Baseline for Bottom-Up Panoptic Segmentation CVPR 2020 [[paper]](https://arxiv.org/abs/1911.10194)
 ### SegFix: Model-Agnostic Boundary Refinement for Segmentation ECCV 2020 [[paper]](https://arxiv.org/abs/2007.04269) [[code]](https://github.com/openseg-group/openseg.pytorch)
 ### Unifying Training and Inference for Panoptic Segmentation CVPR 2020 [[paper]](https://arxiv.org/abs/2001.04982)
