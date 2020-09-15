@@ -271,6 +271,7 @@
 ### Boundary-preserving Mask R-CNN ECCV 2020 [[paper]](https://arxiv.org/abs/2007.08921) [[code]](https://github.com/hustvl/BMaskR-CNN)
 ### Classes Matter: A Fine-grained Adversarial Approach to Cross-domain Semantic Segmentation ECCV 2020 [[paper]](https://arxiv.org/abs/2007.09222)
 ### Deep Convolutional Neural Networks with Spatial Regularization, Volume and Star-shape Priori for Image Segmentation arXiv 2020 [[paper]](https://arxiv.org/abs/2002.03989)
+### EfficientSeg An Efficient Semantic Segmentation Network arXiv 2020 [[paper]](https://arxiv.org/abs/2009.06469)
 ### FasterSeg Searching for Faster Real-time Semantic Segmentation ICLR 2020 [[paper]](https://arxiv.org/abs/1912.10917) [[code]](https://github.com/TAMU-VITA/FasterSeg)
 ### Hierarchical Multi-Scale Attention for Semantic Segmentation arXiv 2020 [[paper]](https://arxiv.org/abs/2005.10821)
 "on Cityscapes test set, Hierarchical Multi-Scale Attention gets mIoU 85.4%.", "on Mapillary validation set, it gets mIoU 61.1%."
