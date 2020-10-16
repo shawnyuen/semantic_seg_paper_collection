@@ -266,6 +266,7 @@
 ### Object-Contextual Representations for Semantic Segmentation arXiv 2019 [[paper]](https://arxiv.org/abs/1909.11065)
 
 ## 2020
+### Auto Seg-Loss Searching Metric Surrogates for Semantic Segmentation arXiv 2020 [[paper]](https://arxiv.org/abs/2010.07930)
 ### Beyond Single Stage Encoder-Decoder Networks: Deep Decoders for Semantic Image Segmentation arXiv 2020 [[paper]](https://arxiv.org/abs/2007.09746)
 ### BlendMask Top-Down Meets Bottom-Up for Instance Segmentation arXiv 2020 [[paper]](https://arxiv.org/abs/2001.00309)
 ### Boundary-preserving Mask R-CNN ECCV 2020 [[paper]](https://arxiv.org/abs/2007.08921) [[code]](https://github.com/hustvl/BMaskR-CNN)
