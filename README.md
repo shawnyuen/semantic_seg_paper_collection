@@ -273,6 +273,7 @@
 ### Boundary-preserving Mask R-CNN ECCV 2020 [[paper]](https://arxiv.org/abs/2007.08921) [[code]](https://github.com/hustvl/BMaskR-CNN)
 ### Classes Matter: A Fine-grained Adversarial Approach to Cross-domain Semantic Segmentation ECCV 2020 [[paper]](https://arxiv.org/abs/2007.09222)
 ### Deep Convolutional Neural Networks with Spatial Regularization, Volume and Star-shape Priori for Image Segmentation arXiv 2020 [[paper]](https://arxiv.org/abs/2002.03989)
+### Disentangled Non-Local Neural Networks ECCV 2020 [[arXiv paper]](https://arxiv.org/abs/2006.06668) [[SemanticSeg code]](https://github.com/yinmh17/DNL-Semantic-Segmentation) [[ObjectDetect code]](https://github.com/Howal/DNL-Object-Detection)
 ### EfficientSeg An Efficient Semantic Segmentation Network arXiv 2020 [[paper]](https://arxiv.org/abs/2009.06469)
 ### FasterSeg Searching for Faster Real-time Semantic Segmentation ICLR 2020 [[paper]](https://arxiv.org/abs/1912.10917) [[code]](https://github.com/TAMU-VITA/FasterSeg)
 ### Hierarchical Multi-Scale Attention for Semantic Segmentation arXiv 2020 [[paper]](https://arxiv.org/abs/2005.10821)
@@ -283,8 +284,8 @@
 ### Interactive Object Segmentation with Inside-Outside Guidance CVPR 2020 [[paper]](http://openaccess.thecvf.com/content_CVPR_2020/html/Zhang_Interactive_Object_Segmentation_With_Inside-Outside_Guidance_CVPR_2020_paper.html)
 ### (Naive-Student) Leveraging Semi-Supervised Learning in Video Sequences for Urban Scene Segmentation arXiv 2020 [[paper]](https://arxiv.org/abs/2005.10266)
 "on Cityscapes test-fine set, Navie-Student gets mIoU 85.2%."
-### Disentangled Non-Local Neural Networks ECCV 2020 [[arXiv paper]](https://arxiv.org/abs/2006.06668) [[SemanticSeg code]](https://github.com/yinmh17/DNL-Semantic-Segmentation) [[ObjectDetect code]](https://github.com/Howal/DNL-Object-Detection)
 ### Panoptic-DeepLab: A Simple, Strong, and Fast Baseline for Bottom-Up Panoptic Segmentation CVPR 2020 [[paper]](https://arxiv.org/abs/1911.10194)
-### SegFix: Model-Agnostic Boundary Refinement for Segmentation ECCV 2020 [[paper]](https://arxiv.org/abs/2007.04269) [[code]](https://github.com/openseg-group/openseg.pytorch)
+### SegFix Model-Agnostic Boundary Refinement for Segmentation ECCV 2020 [[paper]](https://arxiv.org/abs/2007.04269) [[code]](https://github.com/openseg-group/openseg.pytorch)
+### The Devil is in the Boundary Exploiting Boundary Representation for Basis-based Instance Segmentation arXiv 2020 [[paper]](https://arxiv.org/abs/2011.13241)
 ### Unifying Training and Inference for Panoptic Segmentation CVPR 2020 [[paper]](https://arxiv.org/abs/2001.04982)
 ### Unsupervised Intra-Domain Adaptation for Semantic Segmentation Through Self-Supervision CVPR 2020 [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/html/Pan_Unsupervised_Intra-Domain_Adaptation_for_Semantic_Segmentation_Through_Self-Supervision_CVPR_2020_paper.html) [[PyTorch code]](https://github.com/feipan664/IntraDA)
