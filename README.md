@@ -289,3 +289,4 @@
 ### The Devil is in the Boundary Exploiting Boundary Representation for Basis-based Instance Segmentation arXiv 2020 [[paper]](https://arxiv.org/abs/2011.13241)
 ### Unifying Training and Inference for Panoptic Segmentation CVPR 2020 [[paper]](https://arxiv.org/abs/2001.04982)
 ### Unsupervised Intra-Domain Adaptation for Semantic Segmentation Through Self-Supervision CVPR 2020 [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/html/Pan_Unsupervised_Intra-Domain_Adaptation_for_Semantic_Segmentation_Through_Self-Supervision_CVPR_2020_paper.html) [[PyTorch code]](https://github.com/feipan664/IntraDA)
+### Weakly-supervised Cross-domain Adaptation for Endoscopic Lesions Segmentation IEEE TCSVT 2020 [[paper]]()
