@@ -286,6 +286,7 @@
 "on Cityscapes test-fine set, Navie-Student gets mIoU 85.2%."
 ### Panoptic-DeepLab: A Simple, Strong, and Fast Baseline for Bottom-Up Panoptic Segmentation CVPR 2020 [[paper]](https://arxiv.org/abs/1911.10194)
 ### SegFix Model-Agnostic Boundary Refinement for Segmentation ECCV 2020 [[paper]](https://arxiv.org/abs/2007.04269) [[code]](https://github.com/openseg-group/openseg.pytorch)
+### Simple Copy-Paste is a Strong Data Augmentation Method for Instance Segmentation arXiv 2020 [[paper]]()
 ### The Devil is in the Boundary Exploiting Boundary Representation for Basis-based Instance Segmentation arXiv 2020 [[paper]](https://arxiv.org/abs/2011.13241)
 ### Unifying Training and Inference for Panoptic Segmentation CVPR 2020 [[paper]](https://arxiv.org/abs/2001.04982)
 ### Unsupervised Intra-Domain Adaptation for Semantic Segmentation Through Self-Supervision CVPR 2020 [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/html/Pan_Unsupervised_Intra-Domain_Adaptation_for_Semantic_Segmentation_Through_Self-Supervision_CVPR_2020_paper.html) [[PyTorch code]](https://github.com/feipan664/IntraDA)
