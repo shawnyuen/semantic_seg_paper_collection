@@ -276,6 +276,7 @@
 ### Disentangled Non-Local Neural Networks ECCV 2020 [[arXiv paper]](https://arxiv.org/abs/2006.06668) [[SemanticSeg code]](https://github.com/yinmh17/DNL-Semantic-Segmentation) [[ObjectDetect code]](https://github.com/Howal/DNL-Object-Detection)
 ### EfficientSeg An Efficient Semantic Segmentation Network arXiv 2020 [[paper]](https://arxiv.org/abs/2009.06469)
 ### FasterSeg Searching for Faster Real-time Semantic Segmentation ICLR 2020 [[paper]](https://arxiv.org/abs/1912.10917) [[code]](https://github.com/TAMU-VITA/FasterSeg)
+### Fully Convolutional Networks for Panoptic Segmentation arXiv 2020
 ### Hierarchical Multi-Scale Attention for Semantic Segmentation arXiv 2020 [[paper]](https://arxiv.org/abs/2005.10821)
 "on Cityscapes test set, Hierarchical Multi-Scale Attention gets mIoU 85.4%.", "on Mapillary validation set, it gets mIoU 61.1%."
 ### HigherHRNet: Scale-Aware Representation Learning for Bottom-Up Human Pose Estimation CVPR 2020 [[paper]](https://arxiv.org/abs/1908.10357)
