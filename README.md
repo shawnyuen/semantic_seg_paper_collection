@@ -279,13 +279,14 @@
 ### Fully Convolutional Networks for Panoptic Segmentation arXiv 2020
 ### Hierarchical Multi-Scale Attention for Semantic Segmentation arXiv 2020 [[paper]](https://arxiv.org/abs/2005.10821)
 "on Cityscapes test set, Hierarchical Multi-Scale Attention gets mIoU 85.4%.", "on Mapillary validation set, it gets mIoU 61.1%."
-### HigherHRNet: Scale-Aware Representation Learning for Bottom-Up Human Pose Estimation CVPR 2020 [[paper]](https://arxiv.org/abs/1908.10357)
+### HigherHRNet Scale-aware Representation Learning for Bottom-Up Human Pose Estimation CVPR 2020 [[paper]](https://arxiv.org/abs/1908.10357)
 "Bottom-up Higher-Resolution Networks for Multi-Person Pose Estimation"
 ### Improving Semantic Segmentation via Decoupled Body and Edge Supervision ECCV 2020 [[paper]](https://arxiv.org/abs/2007.10035)
 ### Interactive Object Segmentation with Inside-Outside Guidance CVPR 2020 [[paper]](http://openaccess.thecvf.com/content_CVPR_2020/html/Zhang_Interactive_Object_Segmentation_With_Inside-Outside_Guidance_CVPR_2020_paper.html)
 ### (Naive-Student) Leveraging Semi-Supervised Learning in Video Sequences for Urban Scene Segmentation arXiv 2020 [[paper]](https://arxiv.org/abs/2005.10266)
 "on Cityscapes test-fine set, Navie-Student gets mIoU 85.2%."
-### Panoptic-DeepLab: A Simple, Strong, and Fast Baseline for Bottom-Up Panoptic Segmentation CVPR 2020 [[paper]](https://arxiv.org/abs/1911.10194)
+### MaX-DeepLab End-to-End Panoptic Segmentation with Mask Transformers arXiv 2020 [[paper]]()
+### Panoptic-DeepLab A Simple Strong and Fast Baseline for Bottom-Up Panoptic Segmentation CVPR 2020 [[paper]](https://arxiv.org/abs/1911.10194)
 ### SegFix Model-Agnostic Boundary Refinement for Segmentation ECCV 2020 [[paper]](https://arxiv.org/abs/2007.04269) [[code]](https://github.com/openseg-group/openseg.pytorch)
 ### Simple Copy-Paste is a Strong Data Augmentation Method for Instance Segmentation arXiv 2020 [[paper]]()
 ### The Devil is in the Boundary Exploiting Boundary Representation for Basis-based Instance Segmentation arXiv 2020 [[paper]](https://arxiv.org/abs/2011.13241)
