@@ -287,6 +287,9 @@
 "on Cityscapes test-fine set, Navie-Student gets mIoU 85.2%."
 ### MaX-DeepLab End-to-End Panoptic Segmentation with Mask Transformers arXiv 2020 [[paper]]()
 ### Panoptic-DeepLab A Simple Strong and Fast Baseline for Bottom-Up Panoptic Segmentation CVPR 2020 [[paper]](https://arxiv.org/abs/1911.10194)
+### PseudoSeg Designing Pseudo Labels for Semantic Segmentation arXiv 2020 [[paper]]()
+### Scaling Wide Residual Networks for Panoptic Segmentation arXiv 2020 [[paper]]()
+### SegBlocks Block-based Dynamic Resolution Networks for Real-time Segmentation arXiv 2020 [[paper]]()
 ### SegFix Model-Agnostic Boundary Refinement for Segmentation ECCV 2020 [[paper]](https://arxiv.org/abs/2007.04269) [[code]](https://github.com/openseg-group/openseg.pytorch)
 ### Simple Copy-Paste is a Strong Data Augmentation Method for Instance Segmentation arXiv 2020 [[paper]]()
 ### The Devil is in the Boundary Exploiting Boundary Representation for Basis-based Instance Segmentation arXiv 2020 [[paper]](https://arxiv.org/abs/2011.13241)
