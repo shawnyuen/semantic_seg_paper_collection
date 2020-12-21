@@ -274,6 +274,7 @@
 ### Classes Matter: A Fine-grained Adversarial Approach to Cross-domain Semantic Segmentation ECCV 2020 [[paper]](https://arxiv.org/abs/2007.09222)
 ### Deep Convolutional Neural Networks with Spatial Regularization, Volume and Star-shape Priori for Image Segmentation arXiv 2020 [[paper]](https://arxiv.org/abs/2002.03989)
 ### Disentangled Non-Local Neural Networks ECCV 2020 [[arXiv paper]](https://arxiv.org/abs/2006.06668) [[SemanticSeg code]](https://github.com/yinmh17/DNL-Semantic-Segmentation) [[ObjectDetect code]](https://github.com/Howal/DNL-Object-Detection)
+### EfficientFCN Holistically-guided Decoding for Semantic Segmentation ECCV 2020 [[paper]]()
 ### EfficientSeg An Efficient Semantic Segmentation Network arXiv 2020 [[paper]](https://arxiv.org/abs/2009.06469)
 ### FasterSeg Searching for Faster Real-time Semantic Segmentation ICLR 2020 [[paper]](https://arxiv.org/abs/1912.10917) [[code]](https://github.com/TAMU-VITA/FasterSeg)
 ### Fully Convolutional Networks for Panoptic Segmentation arXiv 2020
