@@ -266,6 +266,7 @@
 ### Object-Contextual Representations for Semantic Segmentation arXiv 2019 [[paper]](https://arxiv.org/abs/1909.11065)
 
 ## 2020
+### A Holistically-guided Decoder for Deep Representation Learning with Applications to Semantic Segmentation and Object Detection arXiv 2020 [[paper]]()
 ### Auto Seg-Loss Searching Metric Surrogates for Semantic Segmentation arXiv 2020 [[paper]](https://arxiv.org/abs/2010.07930)
 ### Auto-Panoptic Cooperative Multi-Component Architecture Search for Panoptic Segmentation NIPS 2020 [[paper]](https://arxiv.org/abs/2010.16119) [[code]](https://github.com/Jacobew/AutoPanoptic)
 ### Beyond Single Stage Encoder-Decoder Networks: Deep Decoders for Semantic Image Segmentation arXiv 2020 [[paper]](https://arxiv.org/abs/2007.09746)
