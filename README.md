@@ -300,4 +300,5 @@
 ### Weakly-supervised Cross-domain Adaptation for Endoscopic Lesions Segmentation IEEE TCSVT 2020 [[paper]]()
 
 ## 2021
+### Active Boundary Loss for Semantic Segmentation arXiv 2021 [[paper]](https://arxiv.org/abs/2102.02696)
 ### Exploring Cross-image Pixel Contrast for Semantic Segmentation arXiv 2021 [[paper]](https://arxiv.org/abs/2101.11939)
