@@ -109,6 +109,8 @@
 ### Residual Conv-Deconv Grid Network for Semantic Segmentation [[paper]](https://arxiv.org/abs/1707.07958)
 ### (DeepLab V3) Rethinking Atrous Convolution for Semantic Image Segmentation [[paper]](https://arxiv.org/abs/1706.05587)
 "VOC 2012: 85.7"
+### Scene Parsing with Global Context Embedding ICCV 2017 [[paper]](https://openaccess.thecvf.com/content_iccv_2017/html/Hung_Scene_Parsing_With_ICCV_2017_paper.html)
+"PASCAL-Context validation set: 46.52 mIoU", "ADE20K validation set: 38.37 mIoU"
 ### Semantic Instance Segmentation with a Discriminative Loss Function CVPRW 2017 [[arXiv paper]](https://arxiv.org/abs/1708.02551)
 ### Semantic Segmentation via Structured Patch Prediction, Context CRF and Guidance CRF CVPR 2017 [[papaer]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Shen_Semantic_Segmentation_via_CVPR_2017_paper.pdf)
 ### SGN Sequential Grouping Networks for Instance Segmentation ICCV 2017 [[paper]](http://openaccess.thecvf.com/content_iccv_2017/html/Liu_SGN_Sequential_Grouping_ICCV_2017_paper.html)
