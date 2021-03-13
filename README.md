@@ -305,3 +305,5 @@
 ## 2021
 ### Active Boundary Loss for Semantic Segmentation arXiv 2021 [[paper]](https://arxiv.org/abs/2102.02696)
 ### Exploring Cross-image Pixel Contrast for Semantic Segmentation arXiv 2021 [[paper]](https://arxiv.org/abs/2101.11939)
+### Learning Statistical Texture for Semantic Segmentation arXiv 2021 [[paper]](https://arxiv.org/abs/2103.04133)
+"ADE20K validation set: 46.48 mIoU", "PASCAL Context validation set: 55.8 mIoU", "Cityscapes test set: 82.3 mIoU"
