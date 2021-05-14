@@ -310,3 +310,5 @@
 ### Exploring Cross-image Pixel Contrast for Semantic Segmentation arXiv 2021 [[paper]](https://arxiv.org/abs/2101.11939)
 ### Learning Statistical Texture for Semantic Segmentation arXiv 2021 [[paper]](https://arxiv.org/abs/2103.04133)
 "ADE20K validation set: 46.48 mIoU", "PASCAL Context validation set: 55.8 mIoU", "Cityscapes test set: 82.3 mIoU"
+### Segmenter Transformer for Semantic Segmentation arXiv 2021 [[paper]](https://arxiv.org/abs/2105.05633)
+"ADE20K validation set: 50.77 mIoU", "PASCAL Context validation set: 55.6 mIoU", "Cityscapes validation set: 80.7 mIoU"
