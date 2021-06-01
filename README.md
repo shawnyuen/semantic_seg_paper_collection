@@ -310,5 +310,9 @@
 ### Exploring Cross-image Pixel Contrast for Semantic Segmentation arXiv 2021 [[paper]](https://arxiv.org/abs/2101.11939)
 ### Learning Statistical Texture for Semantic Segmentation arXiv 2021 [[paper]](https://arxiv.org/abs/2103.04133)
 "ADE20K validation set: 46.48 mIoU", "PASCAL Context validation set: 55.8 mIoU", "Cityscapes test set: 82.3 mIoU"
+### Pyramid Vision Transformer A Versatile Backbone for Dense Prediction without Convolutions arXiv [[paper]](https://export.arxiv.org/abs/2102.12122)
+### Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers CVPR 2021 [[paper]](https://arxiv.org/abs/2012.15840) [[code]](https://github.com/fudan-zvg/SETR)
+### SegFormer Simple and Efficient Design for Semantic Segmentation with Transformers arXiv 2021 [[paper]](https://arxiv.org/abs/2105.15203)
+"Cityscapes test set: 82.2 mIoU with ImageNet-1K pre-training", "Cityscapes test set: 83.1 mIoU with ImageNet-1K pre-training and Mapillary pre-training"
 ### Segmenter Transformer for Semantic Segmentation arXiv 2021 [[paper]](https://arxiv.org/abs/2105.05633)
 "ADE20K validation set: 50.77 mIoU", "PASCAL Context validation set: 55.6 mIoU", "Cityscapes validation set: 80.7 mIoU"
