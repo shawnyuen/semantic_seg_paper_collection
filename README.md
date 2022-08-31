@@ -305,6 +305,7 @@
 
 ## 2021
 ### A Simple Baseline for Semi-supervised Semantic Segmentation with Strong Data Augmentation arXiv 2021 [[paper]](https://arxiv.org/abs/2104.07256)
+### A Unified Efficient Pyramid Transformer for Semantic Segmentation arXiv 2021 [[paper]](https://arxiv.org/abs/2107.14209)
 ### Active Boundary Loss for Semantic Segmentation arXiv 2021 [[paper]](https://arxiv.org/abs/2102.02696)
 ### AttaNet Attention-Augmented Network for Fast and Accurate Scene Parsing AAAI 2021
 ### Exploring Cross-image Pixel Contrast for Semantic Segmentation arXiv 2021 [[paper]](https://arxiv.org/abs/2101.11939)
@@ -318,3 +319,6 @@
 "Cityscapes test set: 82.2 mIoU with ImageNet-1K pre-training", "Cityscapes test set: 83.1 mIoU with ImageNet-1K pre-training and Mapillary pre-training"
 ### Segmenter Transformer for Semantic Segmentation arXiv 2021 [[paper]](https://arxiv.org/abs/2105.05633)
 "ADE20K validation set: 50.77 mIoU", "PASCAL Context validation set: 55.6 mIoU", "Cityscapes validation set: 80.7 mIoU"
+
+## 2022
+### RepParser End-to-End Multiple Human Parsing with Representative Parts arXiv 2022 [[paper]]()
