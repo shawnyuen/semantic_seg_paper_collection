@@ -1,4 +1,4 @@
-# SemanticSegPaperCollection
+# semantic_seg_paper_collection
 
 ## Survey or Review
 ### A Review on Deep Learning Techniques Applied to Semantic Segmentation arXiv 2017 [[paper]](https://arxiv.org/abs/1704.06857)
@@ -321,4 +321,5 @@
 "ADE20K validation set: 50.77 mIoU", "PASCAL Context validation set: 55.6 mIoU", "Cityscapes validation set: 80.7 mIoU"
 
 ## 2022
+### Global Spectral Filter Memory Network ECCV 2022 [[paper]](https://arxiv.org/abs/2210.05567) [[code]](https://github.com/workforai/GSFM)
 ### RepParser End-to-End Multiple Human Parsing with Representative Parts arXiv 2022 [[paper]]()
