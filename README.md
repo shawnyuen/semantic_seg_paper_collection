@@ -322,4 +322,5 @@
 
 ## 2022
 ### Global Spectral Filter Memory Network ECCV 2022 [[paper]](https://arxiv.org/abs/2210.05567) [[code]](https://github.com/workforai/GSFM)
-### RepParser End-to-End Multiple Human Parsing with Representative Parts arXiv 2022 [[paper]]()
+### (Mask2Former) Masked-attention Mask Transformer for Universal Image Segmentation CVPR 2022 [[arXiv paper]](https://arxiv.org/abs/2112.01527) [[code]](https://github.com/facebookresearch/Mask2Former)
+### RepParser End-to-End Multiple Human Parsing with Representative Parts arXiv 2022 [[paper]](https://arxiv.org/abs/2208.12908)
