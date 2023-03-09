@@ -71,6 +71,7 @@
 ### (Naive-Student) Leveraging Semi-Supervised Learning in Video Sequences for Urban Scene Segmentation arXiv 2020 [[paper]](https://arxiv.org/abs/2005.10266)
 "on Cityscapes test-fine set, Navie-Student gets mIoU 85.2%."
 ### MaX-DeepLab End-to-End Panoptic Segmentation with Mask Transformers arXiv 2020 [[paper]]()
+### Learning Dynamic Routing for Semantic Segmentation CVPR 2020 [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/html/Li_Learning_Dynamic_Routing_for_Semantic_Segmentation_CVPR_2020_paper.html) [[arXiv paper]](https://arxiv.org/abs/2003.10401)
 ### Panoptic-DeepLab A Simple Strong and Fast Baseline for Bottom-Up Panoptic Segmentation CVPR 2020 [[paper]](https://arxiv.org/abs/1911.10194)
 ### PseudoSeg Designing Pseudo Labels for Semantic Segmentation arXiv 2020 [[paper]]()
 ### Scaling Wide Residual Networks for Panoptic Segmentation arXiv 2020 [[paper]]()
@@ -83,7 +84,11 @@
 ### Weakly-supervised Cross-domain Adaptation for Endoscopic Lesions Segmentation IEEE TCSVT 2020 [[paper]]()
 
 ## 2019
+### Adaptive Pyramid Context Network for Semantic Segmentation CVPR 2019 [[paper]](https://openaccess.thecvf.com/content_CVPR_2019/html/He_Adaptive_Pyramid_Context_Network_for_Semantic_Segmentation_CVPR_2019_paper.html)
 ### Asymmetric Non-Local Neural Networks for Semantic Segmentation ICCV 2019 [[paper]](http://openaccess.thecvf.com/content_ICCV_2019/html/Zhu_Asymmetric_Non-Local_Neural_Networks_for_Semantic_Segmentation_ICCV_2019_paper.html) [[code]](https://github.com/MendelXu/ANN)
+### CCNet - Criss-Cross Attention for Semantic Segmentation ICCV 2019 [[paper]](http://openaccess.thecvf.com/content_ICCV_2019/html/Huang_CCNet_Criss-Cross_Attention_for_Semantic_Segmentation_ICCV_2019_paper.html)
+### Dual Attention Network for Scene Segmentation CVPR 2019 [[CVPR paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Fu_Dual_Attention_Network_for_Scene_Segmentation_CVPR_2019_paper.html) [[arXiv paper]](https://arxiv.org/abs/1809.02983)
+### Dynamic Multi-Scale Filters for Semantic Segmentation ICCV 2019 [[paper]](https://openaccess.thecvf.com/content_ICCV_2019/html/He_Dynamic_Multi-Scale_Filters_for_Semantic_Segmentation_ICCV_2019_paper.html)
 ### Stacked Deconvolutional Network for Semantic Segmentation IEEE TIP 2019 [[paper]](https://ieeexplore.ieee.org/document/8626494)
 ### Auto-DeepLab: Hierarchical Neural Architecture Search for Semantic Image Segmentation CVPR 2019 [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Liu_Auto-DeepLab_Hierarchical_Neural_Architecture_Search_for_Semantic_Image_Segmentation_CVPR_2019_paper.html)
 ### MHP-VOS: Multiple Hypotheses Propagation for Video Object Segmentation CVPR 2019 [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Xu_MHP-VOS_Multiple_Hypotheses_Propagation_for_Video_Object_Segmentation_CVPR_2019_paper.html)
@@ -95,7 +100,6 @@
 ### ADVENT: Adversarial Entropy Minimization for Domain Adaptation in Semantic Segmentation CVPR 2019 [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Vu_ADVENT_Adversarial_Entropy_Minimization_for_Domain_Adaptation_in_Semantic_Segmentation_CVPR_2019_paper.html)
 ### Structured Knowledge Distillation for Semantic Segmentation CVPR 2019 [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Liu_Structured_Knowledge_Distillation_for_Semantic_Segmentation_CVPR_2019_paper.html)
 ### Decoders Matter for Semantic Segmentation: Data-Dependent Decoding Enables Flexible Feature Aggregation CVPR 2019 [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Tian_Decoders_Matter_for_Semantic_Segmentation_Data-Dependent_Decoding_Enables_Flexible_Feature_CVPR_2019_paper.html)
-### Dual Attention Network for Scene Segmentation CVPR 2019 [[CVPR paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Fu_Dual_Attention_Network_for_Scene_Segmentation_CVPR_2019_paper.html) [[ArXiv paper]](https://arxiv.org/abs/1809.02983)
 ### Context-Reinforced Semantic Segmentation CVPR 2019 [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Zhou_Context-Reinforced_Semantic_Segmentation_CVPR_2019_paper.html)
 ### Pattern-Affinitive Propagation Across Depth, Surface Normal and Semantic Segmentation CVPR 2019 [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Zhang_Pattern-Affinitive_Propagation_Across_Depth_Surface_Normal_and_Semantic_Segmentation_CVPR_2019_paper.html)
 ### Not All Areas Are Equal: Transfer Learning for Semantic Segmentation via Hierarchical Region Selection CVPR 2019 [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Sun_Not_All_Areas_Are_Equal_Transfer_Learning_for_Semantic_Segmentation_CVPR_2019_paper.html)
@@ -111,7 +115,6 @@
 ### Panoptic Segmentation CVPR 2019 [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Kirillov_Panoptic_Segmentation_CVPR_2019_paper.html)
 ### DFANet: Deep Feature Aggregation for Real-Time Semantic Segmentation CVPR 2019 [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Li_DFANet_Deep_Feature_Aggregation_for_Real-Time_Semantic_Segmentation_CVPR_2019_paper.html)
 ### Customizable Architecture Search for Semantic Segmentation CVPR 2019 [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Zhang_Customizable_Architecture_Search_for_Semantic_Segmentation_CVPR_2019_paper.html)
-### CCNet: Criss-Cross Attention for Semantic Segmentation ICCV 2019 [[paper]](http://openaccess.thecvf.com/content_ICCV_2019/html/Huang_CCNet_Criss-Cross_Attention_for_Semantic_Segmentation_ICCV_2019_paper.html)
 ### SSAP: Single-Shot Instance Segmentation With Affinity Pyramid ICCV 2019 [[paper]](http://openaccess.thecvf.com/content_ICCV_2019/html/Gao_SSAP_Single-Shot_Instance_Segmentation_With_Affinity_Pyramid_ICCV_2019_paper.html)
 ### InstaBoost: Boosting Instance Segmentation via Probability Map Guided Copy-Pasting ICCV 2019 [[paper]](http://openaccess.thecvf.com/content_ICCV_2019/html/Fang_InstaBoost_Boosting_Instance_Segmentation_via_Probability_Map_Guided_Copy-Pasting_ICCV_2019_paper.html)
 ### SSF-DAN: Separated Semantic Feature Based Domain Adaptation Network for Semantic Segmentation ICCV 2019 [[paper]](http://openaccess.thecvf.com/content_ICCV_2019/html/Du_SSF-DAN_Separated_Semantic_Feature_Based_Domain_Adaptation_Network_for_Semantic_ICCV_2019_paper.html)
@@ -179,18 +182,20 @@ om/content_ECCV_2018/html/Ruochen_Fan_Associating_Inter-Image_Salient_ECCV_2018_
 ### Deep Extreme Cut From Extreme Points to Object Segmentation CVPR 2018 [[paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Maninis_Deep_Extreme_Cut_CVPR_2018_paper.pdf)
 ### Deep Learning Markov Random Field for Semantic Segmentation IEEE TPAMI 2018[[paper]](https://ieeexplore.ieee.org/document/8006236)
 ### Deep Object Co-Segmentation 2018 [[paper]](https://arxiv.org/abs/1804.06423)
+### (DeepLab V2) DeepLab - Semantic Image Segmentation with Deep Convolutional Nets - Atrous Convolution - and Fully Connected CRFs IEEE TPAMI 2018 [[arXiv paper]](http://arxiv.org/abs/1606.00915) [[PAMI paper]](https://ieeexplore.ieee.org/document/7913730)
+"PASCAL VOC 2012: 79.7 mIoU"
 ### DenseASPP for Semantic Segmentation in Street Scenes CVPR 2018 [[paper]](https://openaccess.thecvf.com/content_cvpr_2018/html/Yang_DenseASPP_for_Semantic_CVPR_2018_paper.html)
-### (DeepLab V3+) Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation ECCV 2018 [[paper]](https://arxiv.org/abs/1802.02611)
 ### Depth-aware CNN for RGB-D Segmentation ECCV 2018 [[paper]](http://openaccess.thecvf.com/content_ECCV_2018/html/Weiyue_Wang_Depth-aware_CNN_for_ECCV_2018_paper.html)
 ### Diagnostics in Semantic Segmentation 2018 [[paper]](https://arxiv.org/abs/1809.10328)
 ### DSNet for Real-Time Driving Scene Semantic Segmentation 2018 [[paper]](https://arxiv.org/abs/1812.07049)
 ### Dynamic Video Segmentation Network CVPR 2018 [[paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Xu_Dynamic_Video_Segmentation_CVPR_2018_paper.pdf)
 ### Efficient Dense Modules of Asymmetric Convolution for Real-Time Semantic Segmentation 2018 [[paper]](https://arxiv.org/abs/1809.06323)
 ### Efficient Uncertainty Estimation for Semantic Segmentation in Videos ECCV 2018 [[paper]](http://openaccess.thecvf.com/content_ECCV_2018/html/Po-Yu_Huang_Efficient_Uncertainty_Estimation_ECCV_2018_paper.html)
+### (DeepLab V3+) Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation ECCV 2018 [[arXiv paper]](https://arxiv.org/abs/1802.02611)
 ### End-to-End Joint Semantic Segmentation of Actors and Actions in Video ECCV 2018 [[paper]](http://openaccess.thecvf.com/content_ECCV_2018/html/Jingwei_Ji_End-to-End_Joint_Semantic_ECCV_2018_paper.html)
 ### ESPNet Efficient Spatial Pyramid of Dilated Convolutions for Semantic Segmentation ECCV 2018 [[paper]](http://openaccess.thecvf.com/content_ECCV_2018/html/Sachin_Mehta_ESPNet_Efficient_Spatial_ECCV_2018_paper.html)
 ### ESPNetv2 A Light-weight Power Efficient and General Purpose Convolutional Neural Network ArXiv 2018 [[paper]](https://arxiv.org/abs/1811.11431) [[code]](https://github.com/sacmehta/ESPNetv2)
-### ExFuse: Enhancing Feature Fusion for Semantic Segmentation ECCV 2018 [[paper]](https://arxiv.org/abs/1804.03821)
+### ExFuse - Enhancing Feature Fusion for Semantic Segmentation ECCV 2018 [[paper]](https://arxiv.org/abs/1804.03821)
 ### Exploring Context with Deep Structured models for Semantic Segmentation IEEE TPAMI 2018 [[paper]](http://ieeexplore.ieee.org/document/7934393/)
 ### Exploring New Backbone and Attention Module for Semantic Segmentation in Street Scenes IEEE Access 2018 [[paper]](https://ieeexplore.ieee.org/document/8531594)
 ### Fast Neural Architecture Search of Compact Semantic Segmentation Models via Auxiliary Cells ArXiv 2018 [[paper]](https://arxiv.org/abs/1810.10804)
@@ -269,6 +274,7 @@ om/content_ECCV_2018/html/Ruochen_Fan_Associating_Inter-Image_Salient_ECCV_2018_
 ### Learning to Segment Instances in Videos with Spatial Propagation Network arXiv 2017 [[paper]](https://arxiv.org/abs/1709.04609)
 ### Learning Multi-level Region Consistency with Dense Multi-label Networks for Semantic Segmentation IJCAI 2017 [[paper]](https://arxiv.org/abs/1701.07122)
 ### Learning Video Object Segmentation from Static Images CVPR 2017 [[paper]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Perazzi_Learning_Video_Object_CVPR_2017_paper.pdf)
+### LinkNet - Exploiting encoder representations for efficient semantic segmentation IEEE VCIP 2017 [[paper]](https://ieeexplore.ieee.org/document/8305148) [[arXiv paper]](https://arxiv.org/abs/1707.03718) [[Torch code]](https://github.com/e-lab/LinkNet)
 ### Mask R-CNN ICCV 2017 [[paper]](http://openaccess.thecvf.com/content_iccv_2017/html/He_Mask_R-CNN_ICCV_2017_paper.html)
 ### MaskLab Instance Segmentation by Refining Object Detection with Semantic and Direction Features arXiv 2017 [[paper]](https://arxiv.org/abs/1712.04837)
 ### Mix-and-Match Tuning for Self-Supervised Semantic Segmentation arXiv 2017[[paper]](https://arxiv.org/abs/1712.00661)
@@ -284,10 +290,12 @@ om/content_ECCV_2018/html/Ruochen_Fan_Associating_Inter-Image_Salient_ECCV_2018_
 "PASCAL VOC 2012: 84.2 mAP"
 ### Regional Interactive Image Segmentation Networks ICCV 2017 [[paper]](http://openaccess.thecvf.com/content_iccv_2017/html/Liew_Regional_Interactive_Image_ICCV_2017_paper.html)
 ### Residual Conv-Deconv Grid Network for Semantic Segmentation [[paper]](https://arxiv.org/abs/1707.07958)
-### (DeepLab V3) Rethinking Atrous Convolution for Semantic Image Segmentation [[paper]](https://arxiv.org/abs/1706.05587)
-"VOC 2012: 85.7"
+### (DeepLab V3) Rethinking Atrous Convolution for Semantic Image Segmentation [[arXiv paper]](https://arxiv.org/abs/1706.05587)
+"PASCAL VOC 2012: 85.7 mIoU"
 ### Scene Parsing with Global Context Embedding ICCV 2017 [[paper]](https://openaccess.thecvf.com/content_iccv_2017/html/Hung_Scene_Parsing_With_ICCV_2017_paper.html)
 "PASCAL-Context validation set: 46.52 mIoU", "ADE20K validation set: 38.37 mIoU"
+### SegNet - A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation IEEE TPAMI 2017 [[TPAMI paper]](http://ieeexplore.ieee.org/document/7803544/) [[arXiv paper]](https://arxiv.org/abs/1511.00561) 
+"PASCAL VOC 2012: 59.9 mIoU"
 ### Semantic Instance Segmentation with a Discriminative Loss Function CVPRW 2017 [[arXiv paper]](https://arxiv.org/abs/1708.02551)
 ### Semantic Segmentation via Structured Patch Prediction, Context CRF and Guidance CRF CVPR 2017 [[papaer]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Shen_Semantic_Segmentation_via_CVPR_2017_paper.pdf)
 ### SGN Sequential Grouping Networks for Instance Segmentation ICCV 2017 [[paper]](http://openaccess.thecvf.com/content_iccv_2017/html/Liu_SGN_Sequential_Grouping_ICCV_2017_paper.html)
@@ -305,8 +313,6 @@ om/content_ECCV_2018/html/Ruochen_Fan_Associating_Inter-Image_Salient_ECCV_2018_
 ### Bottom-up Instance Segmentation Using Deep Higher-order CRFs BMVC 2016 [[paper]](http://arxiv.org/abs/1609.02583)
 ### Bridging Category-level and Instance-level Semantic Image Segmentation [[paper]](https://arxiv.org/abs/1605.06885)
 ### Deep Interactive Object Selection CVPR 2016 [[paper]](https://arxiv.org/abs/1603.04042)
-### (DeepLab V2) DeepLab Semantic Image Segmentation with Deep Convolutional Nets Atrous Convolution and Fully Connected CRFs [[pami paper]](http://arxiv.org/abs/1606.00915)
-"VOC 2012: 79.7 mAP"
 ### Efficient Piecewise Training of Deep Structured Models for Semantic Segmentation CVPR 2016 [[paper]](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Lin_Efficient_Piecewise_Training_CVPR_2016_paper.pdf)
 ### ENet A Deep Neural Network Architecture for Real-Time Semantic Segmentation [[paper]](https://arxiv.org/abs/1606.02147)
 ### Fast, Exact and Multi-scale Inference for Semantic Image Segmentation with Deep Gaussian CRFs 2016 [[paper]](https://link.springer.com/chapter/10.1007/978-3-319-46478-7_25)
@@ -316,7 +322,7 @@ om/content_ECCV_2018/html/Ruochen_Fan_Associating_Inter-Image_Salient_ECCV_2018_
 ### Laplacian Pyramid Reconstruction and Refinement for Semantic Segmentation ECCV 2016 [[paper]](https://link.springer.com/chapter/10.1007/978-3-319-46487-9_32) [[matconvnet code]](https://github.com/golnazghiasi/LRR)
 ### Multi-scale Patch Aggregation (MPA) for Simultaneous Detection and Segmentation CVPR 2016 [[paper]](http://openaccess.thecvf.com/content_cvpr_2016/html/Liu_Multi-Scale_Patch_Aggregation_CVPR_2016_paper.html)
 ### MultiNet Real-time Joint Semantic Reasoning for Autonomous Driving 2016 [[paper]](https://arxiv.org/abs/1612.07695)
-### ParseNet Looking Wider to See Better ICLR 2016 [[paper]](https://arxiv.org/abs/1506.04579)
+### ParseNet - Looking Wider to See Better ICLR 2016 [[arXiv paper]](https://arxiv.org/abs/1506.04579)
 ### Pixel-level Encoding and Depth Layering for Instance-level Semantic Labeling 2016 [[paper]](https://arxiv.org/abs/1604.05096)
 ### Semantic Image Segmentation with Task-specific Edge Detection Using CNNs and a Discriminatively Trained Domain Transform [[paper]](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Chen_Semantic_Image_Segmentation_CVPR_2016_paper.pdf)
 ### The One Hundred Layers Tiramisu Fully Convolutional DenseNets for Semantic Segmentation [[paper]](https://arxiv.org/abs/1611.09326) [[Keras code]](https://github.com/0bserver07/One-Hundred-Layers-Tiramisu) [[Theano code]](https://github.com/SimJeg/FC-DenseNet)
@@ -328,21 +334,19 @@ om/content_ECCV_2018/html/Ruochen_Fan_Associating_Inter-Image_Salient_ECCV_2018_
 ### (CRFasRNN) Conditional Random Fields as Recurrent Neural Networks [[paper]](http://www.robots.ox.ac.uk/~szheng/papers/CRFasRNN.pdf)
 ### Feedforward Semantic Segmentation with Zoom-out Features CVPR 2015 [[paper]](https://arxiv.org/abs/1412.0774)
 ### Fully Connected Deep Structured Networks [[paper]](https://arxiv.org/abs/1503.02351)
-### (FCN) Fully Convolutional Networks for Semantic Segmentation CVPR [[paper]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Long_Fully_Convolutional_Networks_2015_CVPR_paper.pdf)
-"the first work on FCN for semantic segmentation", "VOC 2012: 62.2 mAP"
+### (FCN) Fully Convolutional Networks for Semantic Segmentation CVPR 2015 [[paper]](https://openaccess.thecvf.com/content_cvpr_2015/html/Long_Fully_Convolutional_Networks_2015_CVPR_paper.html) [[arXiv paper]](https://arxiv.org/abs/1411.4038)
+"the first work on FCN for semantic segmentation", "PASCAL VOC 2012: 62.2 mAP"
 ### Hypercolumns for Object Segmentation and Fine-grained Localization [[paper]](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Hariharan_Hypercolumns_for_Object_2015_CVPR_paper.pdf)
 ### Monocular Object Instance Segmentation and Depth Ordering with CNNs ICCV 2015 [[paper]](https://ieeexplore.ieee.org/document/7410657/)
 ### Multi-scale Context Aggregation by Dilated Convolutions [[paper]](http://arxiv.org/abs/1511.07122)
 "VOC 2012: 75.3 mAP"
-### SegNet A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation [[paper]](https://arxiv.org/abs/1511.00561) [[TPAMI version]](http://ieeexplore.ieee.org/document/7803544/)
-"VOC 2012: 59.9 mAP"
 ### SegNet A Deep Convolutional Encoder-Decoder Architecture for Robust Semantic Pixel-wise Labelling [[paper]](https://arxiv.org/abs/1505.07293)
 ### Semantic Image Segmentation via Deep Parsing Network ICCV 2015 [[paper]](http://www.cv-foundation.org/openaccess/content_iccv_2015/html/Liu_Semantic_Image_Segmentation_ICCV_2015_paper.html)
-### U-Net Convolutional Networks for Biomedical Image Segmentation MICCAI 2015 [[paper]](https://link.springer.com/chapter/10.1007/978-3-319-24574-4_28)
+### (DeepLab V1) Semantic Image Segmentation with Deep Convolutional Nets and Fully Connected CRFs ICLR 2015 [[iarXiv paper]](http://arxiv.org/abs/1412.7062)
+### U-Net - Convolutional Networks for Biomedical Image Segmentation MICCAI 2015 [[paper]](https://link.springer.com/chapter/10.1007/978-3-319-24574-4_28)
 ### Weakly and Semi-supervised Learning of a DCNN for Semantic Image Segmentation [[paper]](http://openaccess.thecvf.com/content_iccv_2015/papers/Papandreou_Weakly-_and_Semi-Supervised_ICCV_2015_paper.pdf)
 
 ## 2014
-### (DeepLab V1) Semantic Image Segmentation with Deep Convolutional Nets and Fully Connected CRFs [[iclr2015 paper]](http://arxiv.org/abs/1412.7062)
 ### Material Recognition in the Wild with the Materials in Context Database [[paper]](https://arxiv.org/abs/1412.0623)
 ### Predicting Depth Surface Normals and Semantic Labels with a Common Multi-scale Convolutional Architecture [[paper]](http://arxiv.org/abs/1411.4734)
 
