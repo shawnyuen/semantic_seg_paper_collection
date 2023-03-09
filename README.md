@@ -20,6 +20,10 @@
 ### (Cityscapes) The Cityscapes Dataset for Semantic Urban Scene Understanding CVPR 2016 [[paper]](http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Cordts_The_Cityscapes_Dataset_CVPR_2016_paper.html)
 ### (ADE20K) Scene Parsing through ADE20K Dataset CVPR 2017 [[paper]](https://arxiv.org/abs/1608.05442)
 
+## 2023
+### FCN+ - Global Receptive Convolution Makes FCN Great Again arXiv 2023 [[paper]](https://arxiv.org/abs/2303.04589)
+"Global receptive convolution, GRC", "PASCAL VOC 2012: 79.42 mIoU", "Cityscapes: 80.53 mIoU", "ADE20K: 45.74 mIoU"
+
 ## 2013
 ### Learning Hierarchical Features for Scene Labeling [[paper]](http://yann.lecun.com/exdb/publis/pdf/farabet-pami-13.pdf)
 
