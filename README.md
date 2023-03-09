@@ -24,6 +24,9 @@
 ### FCN+ - Global Receptive Convolution Makes FCN Great Again arXiv 2023 [[paper]](https://arxiv.org/abs/2303.04589)
 "Global receptive convolution, GRC", "PASCAL VOC 2012: 79.42 mIoU", "Cityscapes: 80.53 mIoU", "ADE20K: 45.74 mIoU"
 
+## 2019
+### Asymmetric Non-Local Neural Networks for Semantic Segmentation ICCV 2019 [[paper]](http://openaccess.thecvf.com/content_ICCV_2019/html/Zhu_Asymmetric_Non-Local_Neural_Networks_for_Semantic_Segmentation_ICCV_2019_paper.html) [[code]](https://github.com/MendelXu/ANN)
+
 ## 2013
 ### Learning Hierarchical Features for Scene Labeling [[paper]](http://yann.lecun.com/exdb/publis/pdf/farabet-pami-13.pdf)
 
@@ -237,7 +240,6 @@
 ### Panoptic Segmentation CVPR 2019 [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Kirillov_Panoptic_Segmentation_CVPR_2019_paper.html)
 ### DFANet: Deep Feature Aggregation for Real-Time Semantic Segmentation CVPR 2019 [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Li_DFANet_Deep_Feature_Aggregation_for_Real-Time_Semantic_Segmentation_CVPR_2019_paper.html)
 ### Customizable Architecture Search for Semantic Segmentation CVPR 2019 [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Zhang_Customizable_Architecture_Search_for_Semantic_Segmentation_CVPR_2019_paper.html)
-### Asymmetric Non-Local Neural Networks for Semantic Segmentation ICCV 2019 [[paper]](http://openaccess.thecvf.com/content_ICCV_2019/html/Zhu_Asymmetric_Non-Local_Neural_Networks_for_Semantic_Segmentation_ICCV_2019_paper.html)
 ### CCNet: Criss-Cross Attention for Semantic Segmentation ICCV 2019 [[paper]](http://openaccess.thecvf.com/content_ICCV_2019/html/Huang_CCNet_Criss-Cross_Attention_for_Semantic_Segmentation_ICCV_2019_paper.html)
 ### SSAP: Single-Shot Instance Segmentation With Affinity Pyramid ICCV 2019 [[paper]](http://openaccess.thecvf.com/content_ICCV_2019/html/Gao_SSAP_Single-Shot_Instance_Segmentation_With_Affinity_Pyramid_ICCV_2019_paper.html)
 ### InstaBoost: Boosting Instance Segmentation via Probability Map Guided Copy-Pasting ICCV 2019 [[paper]](http://openaccess.thecvf.com/content_ICCV_2019/html/Fang_InstaBoost_Boosting_Instance_Segmentation_via_Probability_Map_Guided_Copy-Pasting_ICCV_2019_paper.html)
