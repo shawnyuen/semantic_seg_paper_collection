@@ -37,6 +37,7 @@
 ### Exploring Cross-image Pixel Contrast for Semantic Segmentation arXiv 2021 [[paper]](https://arxiv.org/abs/2101.11939)
 ### Learning Statistical Texture for Semantic Segmentation arXiv 2021 [[paper]](https://arxiv.org/abs/2103.04133)
 "ADE20K validation set: 46.48 mIoU", "PASCAL Context validation set: 55.8 mIoU", "Cityscapes test set: 82.3 mIoU"
+### Mining Contextual Information Beyond Image for Semantic Segmentation ICCV 2021 [[paper]](https://openaccess.thecvf.com/content/ICCV2021/html/Jin_Mining_Contextual_Information_Beyond_Image_for_Semantic_Segmentation_ICCV_2021_paper.html) [[arXiv paper]](https://arxiv.org/abs/2108.11819)
 ### Per-Pixel Classification is Not All You Need for Semantic Segmentation arXiv 2021 [[paper]](https://arxiv.org/abs/2107.06278) [[code]](https://github.com/facebookresearch/MaskFormer)
 "ADE20K validation set: 46.0 mIoU (single-scale, ConvNet backbones)", "ADE20K validation set: 48.1 mIoU (multi-scale, ConvNet backbones)", "ADE20K validation set: 54.1 mIoU (single-scale, Transformer backbones)", "ADE20K validation set: 55.6.0 mIoU (multi-scale, Transformer backbones)", 
 ### Pyramid Vision Transformer A Versatile Backbone for Dense Prediction without Convolutions arXiv [[paper]](https://export.arxiv.org/abs/2102.12122)
