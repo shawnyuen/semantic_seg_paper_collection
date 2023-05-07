@@ -13,6 +13,7 @@
 ### Unsupervised Domain Adaptation in Semantic Segmentation a Review arXiv 2020 [[paper]](https://arxiv.org/abs/2005.10876)
 ### A Survey of Loss Functions for Semantic Segmentation arXiv 2020 [[paper]](https://arxiv.org/abs/2006.14822) [[code]](https://github.com/shruti-jadon/Semantic-Segmentation-Loss-Functions)
 ### A Survey on Instance Segmentation State of the Art arXiv 2020 [[paper]](https://arxiv.org/abs/2007.00047)
+### Transformer-Based Visual Segmentation - A Survey arXiv 2023 [[paper]](https://arxiv.org/abs/2304.09854)
 
 ## Dataset
 ### (VOC) The Pascal Visual Object Classes (VOC) Challenge IJCV 2010 [[paper]](https://link.springer.com/article/10.1007/s11263-009-0275-4)
@@ -21,8 +22,20 @@
 ### (ADE20K) Scene Parsing through ADE20K Dataset CVPR 2017 [[paper]](https://arxiv.org/abs/1608.05442)
 
 ## 2023
+### Boosting Semantic Segmentation with Semantic Boundaries arXiv 2023 [[paper]](https://arxiv.org/abs/2304.09427)
+### Coupling Global Context and Local Contents for Weakly-Supervised Semantic Segmentation arXiv 2023 [[paper]](https://arxiv.org/abs/2304.09059)
+### Deep Hierarchical Semantic Segmentation CVPR 2023 [[paper]](https://arxiv.org/abs/2203.14335) [[code]](https://github.com/lingorX/HieraSeg)
 ### FCN+ - Global Receptive Convolution Makes FCN Great Again arXiv 2023 [[paper]](https://arxiv.org/abs/2303.04589)
 "Global receptive convolution, GRC", "PASCAL VOC 2012: 79.42 mIoU", "Cityscapes: 80.53 mIoU", "ADE20K: 45.74 mIoU"
+### HFGD - High-level Feature Guided Decoder for Semantic Segmentation arXiv 2023 [[paper]](https://arxiv.org/abs/2303.08646)
+"Cityscapes: 83.1 mIoU using single scale and os=4", "Cityscapes: 83.2 mIoU using single scale and os=2", "Cityscapes: 83.8 mIoU using multi-scale and os=4", "Cityscapes: 84.0 mIoU using multi-scale and os=2", "COCOStuff164K: 49.0 mIoU using single scale and os=4", "COCOStuff164K: 49.4 mIoU using multi-scale and os=4", "Pascal Context: 63.8 mIoU using single scale and os=4", "Pascal Context: 64.9 mIoU using multi-scale and os=4"
+### MED-VT - Multiscale Encoder-Decoder Video Transformer with Application to Object Segmentation CVPR 2023 [[paper]](https://arxiv.org/abs/2304.05930)
+### OVeNet - Offset Vector Network for Semantic Segmentation arXiv 2023 [[paper]](https://arxiv.org/abs/2303.14516)
+"improving class predictions by learning to selectively exploit information from neighboring pixels"
+### Reliability-Hierarchical Memory Network for Scribble-Supervised Video Object Segmentation arXiv 2023 [[paper]](https://arxiv.org/abs/2303.14384)
+"so-so"
+### Segment Anything arXiv 2023 [[paper]](https://arxiv.org/abs/2304.02643)
+"milestone", "promptable segmentation", "segment anything model, sam"
 
 ## 2022
 ### Global Spectral Filter Memory Network ECCV 2022 [[paper]](https://arxiv.org/abs/2210.05567) [[code]](https://github.com/workforai/GSFM)
@@ -34,6 +47,8 @@
 ### A Unified Efficient Pyramid Transformer for Semantic Segmentation arXiv 2021 [[paper]](https://arxiv.org/abs/2107.14209)
 ### Active Boundary Loss for Semantic Segmentation arXiv 2021 [[paper]](https://arxiv.org/abs/2102.02696)
 ### AttaNet Attention-Augmented Network for Fast and Accurate Scene Parsing AAAI 2021
+### BiSeNet V2 - Bilateral Network with Guided Aggregation for Real-time Semantic Segmentation IJCV 2020 [[ijcv paper]](https://link.springer.com/article/10.1007/s11263-021-01515-2)  [[arXiv paper]]https://arxiv.org/abs/2004.02147)
+"Real-time"
 ### Exploring Cross-image Pixel Contrast for Semantic Segmentation arXiv 2021 [[paper]](https://arxiv.org/abs/2101.11939)
 ### Learning Statistical Texture for Semantic Segmentation arXiv 2021 [[paper]](https://arxiv.org/abs/2103.04133)
 "ADE20K validation set: 46.48 mIoU", "PASCAL Context validation set: 55.8 mIoU", "Cityscapes test set: 82.3 mIoU"
@@ -52,7 +67,6 @@
 ### Auto Seg-Loss Searching Metric Surrogates for Semantic Segmentation arXiv 2020 [[paper]](https://arxiv.org/abs/2010.07930)
 ### Auto-Panoptic Cooperative Multi-Component Architecture Search for Panoptic Segmentation NIPS 2020 [[paper]](https://arxiv.org/abs/2010.16119) [[code]](https://github.com/Jacobew/AutoPanoptic)
 ### Beyond Single Stage Encoder-Decoder Networks: Deep Decoders for Semantic Image Segmentation arXiv 2020 [[paper]](https://arxiv.org/abs/2007.09746)
-### BiSeNet V2 Bilateral Network with Guided Aggregation for Real-time Semantic Segmentation arXiv 2020
 ### BlendMask Top-Down Meets Bottom-Up for Instance Segmentation arXiv 2020 [[paper]](https://arxiv.org/abs/2001.00309)
 ### Boundary-preserving Mask R-CNN ECCV 2020 [[paper]](https://arxiv.org/abs/2007.08921) [[code]](https://github.com/hustvl/BMaskR-CNN)
 ### Classes Matter A Fine-grained Adversarial Approach to Cross-domain Semantic Segmentation ECCV 2020 [[paper]](https://arxiv.org/abs/2007.09222)
@@ -175,9 +189,12 @@ om/content_ECCV_2018/html/Ruochen_Fan_Associating_Inter-Image_Salient_ECCV_2018_
 ### Attention-guided Unified Network for Panoptic Segmentation 2018 [[paper]](https://arxiv.org/abs/1812.03904)
 ### Bayesian Semantic Instance Segmentation in Open Set World ECCV 2018 [[paper]](http://openaccess.thecvf.com/content_ECCV_2018/html/Trung_Pham_Bayesian_Instance_Segmentation_ECCV_2018_paper.html)
 ### (BiSeNet) BiSeNet Bilateral Segmentation Network for Real-time Semantic Segmentation ECCV 2018 [[paper]](http://openaccess.thecvf.com/content_ECCV_2018/html/Changqian_Yu_BiSeNet_Bilateral_Segmentation_ECCV_2018_paper.html)
-### CIAN: Cross-Image Affinity Net for Weakly Supervised Semantic Segmentation 2018 [[paper]](https://arxiv.org/abs/1811.10842)
-### Concentrated-Comprehensive Convolutions for lightweight semantic segmentation 2018 [[paper]](https://arxiv.org/abs/1812.04920)
-### Context Encoding for Semantic Segmentation CVPR 2018 [[paper]](https://arxiv.org/abs/1803.08904) [[cvpr version]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Context_Encoding_for_CVPR_2018_paper.pdf) [[Pytorch code]](https://hangzhang.org/PyTorch-Encoding/experiments/segmentation.html)
+""
+### CIAN - Cross-Image Affinity Net for Weakly Supervised Semantic Segmentation arXiv 2018 [[paper]](https://arxiv.org/abs/1811.10842)
+### Concentrated-Comprehensive Convolutions for Lightweight Semantic Segmentation arXiv 2018 [[paper]](https://arxiv.org/abs/1812.04920)
+### Context Contrasted Feature and Gated Multi-Scale Aggregation for Scene Segmentation CVPR 2018 [[paper]](http://openaccess.thecvf.com/content_cvpr_2018/html/Ding_Context_Contrasted_Feature_CVPR_2018_paper.html)
+### Context Encoding for Semantic Segmentation CVPR 2018  [[cvpr paper]](https://openaccess.thecvf.com/content_cvpr_2018/html/Zhang_Context_Encoding_for_CVPR_2018_paper.html) [[arXiv paper]](https://arxiv.org/abs/1803.08904) [[Pytorch code]](https://hangzhang.org/PyTorch-Encoding/experiments/segmentation.html)
+""
 ### ContextNet Exploring Context and Detail for Semantic Segmentation in Real-time 2018 [[paper]](https://arxiv.org/abs/1805.04554)
 ### Convolutional CRFs for Semantic Segmentation 2018 [[paper]](https://arxiv.org/abs/1805.04777) [[code]](https://github.com/MarvinTeichmann/ConvCRF)
 ### Deep Extreme Cut From Extreme Points to Object Segmentation CVPR 2018 [[paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Maninis_Deep_Extreme_Cut_CVPR_2018_paper.pdf)
@@ -251,7 +268,6 @@ om/content_ECCV_2018/html/Ruochen_Fan_Associating_Inter-Image_Salient_ECCV_2018_
 ### Weakly Supervised Instance Segmentation Using Class Peak Response CVPR 2018 [[paper]](https://arxiv.org/abs/1804.00880)
 ### Weakly- and Semi-Supervised Panoptic Segmentation ECCV 2018 [[paper]](http://openaccess.thecvf.com/content_ECCV_2018/html/Anurag_Arnab_Weakly-_and_Semi-Supervised_ECCV_2018_paper.html)
 ### YouTube-VOS Sequence-to-Sequence Video Object Segmentation ECCV 2018 [[paper]](http://openaccess.thecvf.com/content_ECCV_2018/html/Ning_Xu_YouTube-VOS_Sequence-to-Sequence_Video_ECCV_2018_paper.html)
-### Context Contrasted Feature and Gated Multi-Scale Aggregation for Scene Segmentation CVPR 2018 [[paper]](http://openaccess.thecvf.com/content_cvpr_2018/html/Ding_Context_Contrasted_Feature_CVPR_2018_paper.html)
 
 ## 2017
 ### BlitzNet A Real-Time Deep Network for Scene Understanding ICCV 2017 [[paper]](http://openaccess.thecvf.com/content_iccv_2017/html/Dvornik_BlitzNet_A_Real-Time_ICCV_2017_paper.html)
