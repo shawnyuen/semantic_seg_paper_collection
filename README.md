@@ -14,12 +14,13 @@
 ### A Survey of Loss Functions for Semantic Segmentation arXiv 2020 [[paper]](https://arxiv.org/abs/2006.14822) [[code]](https://github.com/shruti-jadon/Semantic-Segmentation-Loss-Functions)
 ### A Survey on Instance Segmentation State of the Art arXiv 2020 [[paper]](https://arxiv.org/abs/2007.00047)
 ### Transformer-Based Visual Segmentation - A Survey arXiv 2023 [[paper]](https://arxiv.org/abs/2304.09854)
+### Semantic Segmentation Using Vision Transformers - A Survey arXiv 2023 [[paper]](https://arxiv.org/abs/2305.03273)
 
 ## Dataset
 ### (VOC) The Pascal Visual Object Classes (VOC) Challenge IJCV 2010 [[paper]](https://link.springer.com/article/10.1007/s11263-009-0275-4)
 ### (MS COCO) Microsoft COCO Common Objects in Context ECCV 2014 [[paper]](https://rd.springer.com/chapter/10.1007/978-3-319-10602-1_48)
 ### (Cityscapes) The Cityscapes Dataset for Semantic Urban Scene Understanding CVPR 2016 [[paper]](http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Cordts_The_Cityscapes_Dataset_CVPR_2016_paper.html)
-### (ADE20K) Scene Parsing through ADE20K Dataset CVPR 2017 [[paper]](https://arxiv.org/abs/1608.05442)
+### (ADE20K) Scene Parsing through ADE20K Dataset CVPR 2017 [[paper]](http://openaccess.thecvf.com/content_cvpr_2017/html/Zhou_Scene_Parsing_Through_CVPR_2017_paper.html) [[arXiv paper]](https://arxiv.org/abs/1608.05442)
 
 ## 2023
 ### Boosting Semantic Segmentation with Semantic Boundaries arXiv 2023 [[paper]](https://arxiv.org/abs/2304.09427)
